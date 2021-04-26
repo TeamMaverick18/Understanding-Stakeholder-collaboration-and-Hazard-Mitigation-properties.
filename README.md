@@ -1,6 +1,7 @@
 
 ## Understanding Stakeholder collaboration, Hazard Mitigation properties and Resource Allocation during disaster response.
-> Sponsored - Accenture Federal Services
+> Sponsored - GMU SID & REVA DEWBERRY DEPARTMENT OF CIVIL, ENVIRONMENTAL & INFRASTRUCTURE ENGINEERING
+
 
 - [Description](#Description)
 - [AuthorInfo](#AuthorInfo)

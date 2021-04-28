@@ -20,7 +20,7 @@ to (1) design a systematic approach that identifies respective stakeholdersinvol
 ### howtouse
 
 DATASET: <br/>
-CleanedMission Assignments.csv: <br/>
+CleanedMission Assignments.csv: 
 This dataset contains the processed mission assignment dataset. <br/>
 Stakeholder Dictionary.csv:
 This file contains a list of stakeholder names. It is used to extract stakeholder collaboration information from the mission assignment dataset. 

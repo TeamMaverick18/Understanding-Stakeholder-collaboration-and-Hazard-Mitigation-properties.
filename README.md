@@ -30,7 +30,7 @@ These two datasets contain collaboration information (i.e., stakeholder and stak
 **MA Exploration.R:** <br/>
 This code takes the raw mission assignment dataset and cleans the dataset. In addition, this code contains exploratory data analysis and visualizations.
 Collaboration Information Extraction.py: This code takes the cleaned mission assignment dataset and uses the defined stakeholder dictionary to extract stakeholder collaboration information. <br/>
-**Identification of High Performing Stakeholders.R: **<br/>
+**Identification of High Performing Stakeholders.R:**<br/>
 This code takes the extracted stakeholder collaboration information for hurricane-related disasters and calculated centrality to identify high-performing stakeholders <br/>
 
 ----

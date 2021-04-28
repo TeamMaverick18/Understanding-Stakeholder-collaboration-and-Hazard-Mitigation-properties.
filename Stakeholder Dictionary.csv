@@ -1,0 +1,2960 @@
+agency,id
+FEMA,FEMA
+Federal Emergency Management Agency,FEMA
+DHS,DHS
+Department of Homeland Security,DHS
+GSA,GSA
+CNCS,CNCS
+BUREC,BUREC
+USPHS,USPHS
+COE-SPD,COE-SPD
+DOT,DOT
+TVA,TVA
+NCS,NCS
+USGS,USGS
+TREAS,TREAS
+HHS,HHS
+COE-NPD,COE-NPD
+COE-SWD,COE-SWD
+FNS,FNS
+EPA,EPA
+USCG,USCG
+USFS,USFS
+DOD,DOD
+ARC,ARC
+DOE,DOE
+COE-MVD,COE-MVD
+DOC,DOC
+COE-NAD,COE-NAD
+DOJ,DOJ
+COE-LRD,COE-LRD
+COE-POD,COE-POD
+HEW,HEW
+DOI,DOI
+USDA,USDA
+COE-SAD,COE-SAD
+ICE,ICE
+DOL,DOL
+NOAA,NOAA
+NASA,NASA
+COE-NCD,COE-NCD
+NGA,NGA
+FPS,FPS
+USPS,USPS
+BIA,BIA
+CDC,CDC
+DHUD,DHUD
+APHIS,APHIS
+COE-LMVD,COE-LMVD
+CBP,CBP
+SBA,SBA
+DOED,DOED
+OSHA,OSHA
+OCFO,OCFO
+VA,VA
+NAR,NAR
+DOS,DOS
+FAA,FAA
+FLETC,FLETC
+SSA,SSA
+OPM,OPM
+NLRB,NLRB
+USSS,USSS
+TSA,TSA
+AID,AID
+NRCC,NRCC
+SCS,SCS
+USPC,USPC
+USCIS,USCIS
+IAIP,IAIP
+NCUA,NCUA
+OSLGCP,OSLGCP
+FCSIC,FCSIC
+DHSOIG,DHSOIG
+RRB,RRB
+FCC,FCC
+S&T,S&T
+BTS,BTS
+MSPB,MSPB
+NSF,NSF
+SEC,SEC
+NPS,NPS
+NCPC,NCPC
+EEOC,EEOC
+FMSHRC,FMSHRC
+USFWS,USFWS
+CIA,CIA
+USAF,USAF
+COE-NED,COE-NED
+DOMS,DOMS
+NPPD,NPPD
+COE-NWD,COE-NWD
+DLA,DLA
+OPS,OPS
+CSC,CSC
+NRCS,NRCS
+MGT,MGT
+ST,ST
+OHA,OHA
+DNDO,DNDO
+EOP,EOP
+BLM,BLM
+CSOSA,CSOSA
+ODNI,ODNI
+USN,USN
+RD,RD
+General Services Administration,GSA
+Corporation for National Community Service,CNCS
+United States Bureau of Reclamation,BUREC
+Bureau of Reclamation,USPHS
+Special Programs Division,COE-SPD
+Dept of Transportation,DOT
+Tennessee Valley Authority,TVA
+National Communications System,NCS
+United States Coast Guard,USGS
+Department of the Treasury,TREAS
+Health and Human Services,HHS
+COE-NPD,COE-NPD
+COE-SWD,COE-SWD
+Food and Nutrition Services,FNS
+Environmental Protection Agency,EPA
+US Coast Guard,USCG
+US Forest Service,USFS
+Department of Defense,DOD
+American Red Cross,ARC
+Dept of Energy,DOE
+COE-MVD,COE-MVD
+Department of Commerce,DOC
+COE-NAD,COE-NAD
+U.S. Department of Justice,DOJ
+COE-LRD,COE-LRD
+COE-POD,COE-POD
+U.S. Department of Health,HEW
+Department of Interior,DOI
+US Department of Agriculture,USDA
+COE-SAD,COE-SAD
+Immigration and Customs Enforcement,ICE
+Department of Labor,DOL
+National Oceanic and Atmospheric Administration,NOAA
+National Aeronautics and Space Administration,NASA
+COE-NCD,COE-NCD
+National Geospatial-Intelligence Agency,NGA
+Federal Protective Service,FPS
+United States Postal Service,USPS
+Board of Immigration Appeals,BIA
+Centers for Disease Control and Prevention,CDC
+Housing & Urban Development,DHUD
+USDA Animal and Plant Health Inspection Services,APHIS
+COE-LMVD,COE-LMVD
+Customs and Border Protection,CBP
+Small Business Administration,SBA
+US Department of Education,DOED
+Occupational Safety & Health Administration,OSHA
+Office of the Chief Financial Officer,OCFO
+Veteran Administration,VA
+National Association of Realtors,NAR
+Department of State,DOS
+Federal Aviation Administration,FAA
+Federal Law Enforcement Training Center,FLETC
+United States Social Security Administration,SSA
+United States Office of Personnel Management,OPM
+National Labor Relations Board,NLRB
+United States Secret Service,USSS
+The Salvation Army,TSA
+Agency for International Development,AID
+National Response Coordination Center,NRCC
+Soil and Conservation Service,SCS
+United States Pony Clubs,USPC
+U.S. Citizenship and Immigration Services,USCIS
+Information Analysis and Infrastructure Protection,IAIP
+National Credit Union Administration,NCUA
+Office†of†State and Local Government Coordination and Preparedness,OSLGCP
+Farm Credit System Insurance Corporation,FCSIC
+Department of Homeland Security Office of Inspector General,DHSOIG
+Railroad Retirement Board,RRB
+Federal Communications Commission,FCC
+Science and Technology,S&T
+Border and Transportation Security,BTS
+Merit Systems Protection Board,MSPB
+National Science Foundation,NSF
+U.S. Securities and Exchange Commission,SEC
+National Park Service,NPS
+National Capital Planning Commission,NCPC
+Equal Employment Opportunity Commission,EEOC
+Federal Mine Safety and Health Review Commission,FMSHRC
+U.S. Fish and Wildlife Service,USFWS
+Central Intelligence Agency,CIA
+U.S. Air Force,USAF
+COE-NED,COE-NED
+Director of Military Support,DOMS
+National Protection and Programs Directorate,NPPD
+COE-NWD,COE-NWD
+Defense Logistics Agency,DLA
+Office of Operations Coordination,OPS
+Common Service Centres,CSC
+USDA†Natural Resources Conservation Service,NRCS
+Management†Directorate,MGT
+Science and Technology Directorate,ST
+Office of Health Affairs,OHA
+Domestic Nuclear Detection Office†,DNDO
+Executive Office of the President,EOP
+Bureau of Land Management,BLM
+Court Services and Offender Supervision Agency,CSOSA
+Office of the Director of National Intelligence,ODNI
+United States Navy,USN
+Rural Development,RD
+American Association of Airport Executives,AAAE
+American Association for Exporters and Importers,AAEI
+Andrews Air Force Base,AAFB
+American Association of Motor Vehicle Administration,AAMVA
+American Association of Port Authorities,AAPA
+American Association of Retired Persons,AARP
+American Association of State Highway and Transportation Officials,AASHTO
+Association of American Universities,AAU
+Association of Bay Area Governments,ABAG
+American Battle Monuments Commission,ABMC
+Airborne Command Post,ABNCP
+Air Carrier Association for Americans,ACAA
+Arms Control and Disarmament Agency,ACDA
+American Council of Government Industrial Hygienists,ACGIH
+Advisory Council on Historic Preservation,ACHP
+Airports Council International--North America,ACI/NA
+Advisory Committee on Immunization Practices,ACIP
+Advisory Commission on Intergovernmental Relations,ACIR
+Advisory Council on Professional Standards for Emergency Managers,ACPSEM
+American Congress of Surveying and Mapping,ACSM
+Advanced Concepts Technology Demonstration,ACTD
+Air Cargo Working Group,ACWG
+Arkansas Department of Emergency Management,ADEM
+Alaska Division of Emergency Services,ADES
+Alaska Division of Geological and Geophysical Surveys,ADGGS
+Airport District Office,ADO
+American Economic Association,AEA
+Atomic Energy and Control Board,AECB
+American Enterprise Institute,AEI
+Alaska Earthquake Information Center,AEIC
+Alabama Emergency Management Agency,AEMA
+Armed Forces Communications and Electronics Association,AFCEA
+American Federation of Government Employees,AFGE
+Air Force Global Weather Central,AFGWC
+Asset Forfeiture & Money Laundering Section,AFMLS
+Air Force Operations Support Center,AFOSC
+Air Force Rescue Coordination Center,AFRCC
+Air Force Reserve,AFRES
+Armed Force Radiobiology Research Institute,AFRRI
+Air Force Technical Applications Center,AFTAC
+Associated General Contractors of America,AGCA
+Alternate Host Communications Center,AHCC
+Ad Hoc Group,AHG
+Agency for International Development,AID
+Address Indicating Group,AIG
+Alaskan Command,ALCOM
+Automated Local Evaluation in Real Time,ALERT
+Airline Pilots Association,ALPA
+American Medical Association,AMA
+Air & Marine Branch,AMB
+Armament Munitions and Chemical Command,AMCCOM
+Air and Marine Interdiction Division,AMID
+Air and Marine Operations Center,AMOC
+American Satellite Communications,AMSC
+"Applied Marine Technology, Inc.",AMTI
+Association of Metropolitan Water Agencies,AMWA
+Anniston Army Depot,ANAD
+Anniston Chemical Activity,ANCA
+Anniston Chemical Disposal Facility,ANCDF
+Air National Guard,ANG
+Air National Guard Base,ANGB
+Argonne National Laboratory,ANL
+Association of National Olympic Committees,ANOC
+Alternate National Processing Service Center ,ANPSC
+American National Red Cross,ANRC
+"Analytic Services, Inc.",ANSER
+American National Standards Institute,ANSI
+Administration on Aging,AoA
+"Association of Public-Safety Communications Officials, International",APCO
+Asia Pacific Economic Cooperation,APEC
+American Public Health Association,APHA
+Animal and Plant Health Inspection Service ,APHIS
+Association of Public Health Laboratories,APHL
+Aerial Port of Debarkation,APOD
+Aerial Port of Embarkation,APOE
+Academe and Policy Research Advisory Committee,APRSAC
+American Public Transportation Associations,APTA
+American Public Works Association,APWA
+American Red Cross,ARC
+Accident Response Group,ARG
+Army National Guard,ARNG
+Alternate Regional Operations Center,A-ROC
+Advanced Research Projects Agency,ARPA
+American Radio Relay League,ARRL
+Army Special Operations Forces,ARSOF
+Air Route Traffic Control Center,ARTCC
+Aerial Reconnaissance Weather Office,ARWO
+American Society of Civil Engineers,ASCE
+Association of State Dam Safety Officials,ASDSO
+Association of Southeast Asian Nations,ASEAN
+Association of State Floodplain Managers,ASFPM
+American Society for Industrial Security,ASIS
+Atomic Safety and Licensing Board,ASLB
+American Society of Mechanical Engineers,ASME
+Armed Services Medical Regulating Office,ASMRO
+American Society of Professional Estimators,ASPE
+American Society of Photogrammetry and Remote Sensing,ASPRS
+American Society of Safety Engineers,ASSE
+Association of State and Territorial Health Offices,ASTHO
+American Society for Testing and Materials,ASTM
+Applied Technology Board,ATB
+"Bureau of Alcohol, Tobacco, and Firearms",ATF
+Agency for Toxic Substances and Disease Registry,ATSDR
+Alaska Tsunami Warning Center,ATWC
+Association for Unmanned Vehicle Systems International,AUVSI
+Alaska Volcano Center,AVC
+American Water Resources Association,AWRA
+Business Alliance for Customs Modernization,BACM
+Burned Area Emergency Rehabilitation,BAER
+"Bureau of Alcohol, Tobacco, and Firearms",BATF
+Board of Building Regulations and Standards,BBRS
+Bureau for Citizenship and Immigration Services,BCIS
+Bomb Data Center,BDC
+Business Executives for National Security,BENS
+Blue Grass Army Depot,BGAD
+Blue Grass Chemical Activity,BGCA
+Bureau of Immigration and Customs Enforcement,BICE
+Boise Interagency Fire Center,BIFC
+Bureau of Land Management,BLM
+Bomb Management Center,BMC
+Bureau of Reclamation,BOR
+Best Practices Working Group,BPWG
+Bureau and Statistical Agent,B&SA
+Building Security Committee,BSC
+Building Seismic Safety Council,BSSC
+Core Agency Group,CAG
+Coalition of Airline Pilot Association,CAPA
+Civil Aviation Planning Committee,CAPC
+Centralized Administrative Services Unit,CASU
+Chemical and Biological Defense,CBD
+Chemical and Biological Defense Command,CBDCOM
+Chemical and Biological Information Analysis Center,CBIAC
+Chemical/Biological Incident Response Force,CBIRF
+Customs and Border Protection,CBP
+Customs and Border Protection Modernization Office,CBPMO
+Chemical-Biological Quick Response Force,CBQRF
+Configuration Control Board,CCB
+Center for Civil Force Protection,CCFP
+Crisis Coordination Group,CCG
+Consultative Committee on Natural Disasters,CCND
+Canada Customs and Revenue Agency,CCRA
+Command and Control Simulation Lab,CCSL
+Centers for Disease Control and Prevention,CDC
+Center for Disease Control and Prevention,CDCP
+Caribbean Disaster Emergency Response Agency,CDERA
+Center for Domestic Preparedness,CDP
+Catastrophic Disaster Response Group,CDRG
+Catastrophic Disaster Response Group - Primary Agency Committee,CDRG-PAC
+Council of Economic Advisors,CEA
+Contractor Evaluation Board,CEB
+Committee for Economic Development,CED
+Consumer Electronics Manufacturers Association,CEMA
+Canada Emergency Measures Organization,CEMO
+Committee on Environment and Natural Resources,CENR
+County Emergency Operations Center,CEOC
+Committee on Earth-Orbiting Satellites,CEOS
+Canadian Emergency Preparedness Association,CEPA
+Chemical Emergency Preparedness and Prevention Office,CEPPO
+Council on Environmental Quality,CEQ
+Coastal Engineering Research Center,CERC
+Computer Emergency Response Team/Coordination Center,CERT/CC
+Cooperative Extension Service,CEXS
+Committee for Foreign Investment in the United States,CFIUS
+Commercial Fishing Industry Vessel Safety Advisory Committee,CFIVSAC
+Consolidated Farm Service Agency,CFSA
+Congressional Fire Services Institute,CFSI
+Commodity Futures Trading Commission,CFTC
+Coast Guard District,CGD
+Canadian Government Emergency Operations Center,CGEOC
+Center for Geophysical Investigation of the Shallow Subsurface,CGISS
+Council of Graduate Schools,CGS
+Chemical Transportation Emergency Center,CHEMTREC
+Central Intelligence Agency,CIA
+Congressional and Intergovernmental Affairs Division,CIAD
+Center for Intelligence Collection Analysis and Dissemination  ,CICAD
+"Criminal Investigation Division or Department, Community Identification",CID
+Canadian International Development Agency,CIDA
+Canadian Interagency Forest Fire Centre,CIFFC
+Channel Industry Mutual Aid,CIMA
+Critical Infrastructure Protection Board,CIPB
+Critical Infrastructure Protection Information Center,CIPIC
+Critical Infrastructure Protection Working Group,CIPWG
+Critical Incident Response Group,CIRG
+Computer Intrusion Threat Assessment Center,CITAC
+Central Imagery Tasking Office,CITO
+Crisis Management Center Augmentation Cadre,CMCAC
+Consequence Management Group,CMG
+Center for Mental Health Services,CMHS
+Civil Military Operations Center,CMOC
+Canadian Nuclear Safety Commission,CNSC
+Commission for Nuclear Safety and Safeguards,CNSNS
+Customs Operations Advisory Committee,COAC
+Center for Ocean Analysis and Prediction,COAP
+Corps of Engineers,COE
+Continental United States Army,CONUSA
+Advisory Committee on Commercial Operations of the US Customs Service,COUSCS
+Coalition Provisional Authority,CPA
+Climate Prediction Center,CPC
+Central Pacific Hurricane Center,CPHC
+Consumer Product Safety Commission,CPSC
+Civil Reserve Air Fleet,CRAF
+Cybersecurity Research & Development Center,CRDC
+Cascadia Region Earthquake Workgroup,CREW
+Cold Region Research and Engineering Laboratory,CRREL
+Christian Reformed World Relief Committee,CRWRC
+Center for the Study of Emergency Management,CSEM
+Combat Support Hospital,CSH
+Chemical Safety and Hazards Investigation Board,CSHIB
+Commercial Satellite Imagery Library,CSIL
+Cooperative State Research Education and Extension Service,CSREES
+"Cyber Security Tracking, Analysis, & Response Center",CSTARC
+Council of State and Territorial Epidemiologists,CSTE
+Chemical Transportation Advisory Committee,CTAC
+Cellular Telecommunications & Internet Association,CTIA
+Containerized Tactical Operations Center,CTOC
+Connecticut Office of Emergency Management,CTOEM
+Confederated Tribes of the Umatilla Indian Reservation,CTUIR
+Consortium of Universities for Research in Earthquake Engineering,CUREE
+Central United States Earthquake Consortium,CUSEC
+Church World United,CWU
+Distributed Active Archive Center,DAAC
+Department of the Army Pamphlet,DA PAM
+Defense Airborne Reconnaissance Office,DARO
+Defense Advanced Research Project(s) Agency,DARPA
+Disaster Assistance Support Center,DASC
+Defense Contract Audit Agency,DCAA
+Defense Collection Coordination Center,DCCC
+Deseret Chemical Depot,DCD
+District of Columbia Emergency Management Agency,DCEMA
+Department of Economic and Community Development,DECD
+Department of Education,DED
+Depot System Command,DESCOM
+Department of Foreign Affairs and International Trade,DFAIT
+Defense Financial Accounting Service,DFAS
+Disaster Finance Center,DFC
+Disaster Financial Services Group,DFSG
+Disaster Field Training Office,DFTO
+Department of Homeland Security,DHS
+Department of Housing and Urban Development,DHUD
+Defense Intelligence Agency,DIA
+Division of Immigration Health Services,DIHS
+Defense Information Infrastructure,DII
+Disaster Information Resource Center,DIRC
+National Security Agency,DIRNSA
+Defense Investigative Service,DIS
+Defense Information Systems Agency,DISA
+Defense Industrial Security Clearance Office,DISCO
+Defense Logistics Agency,DLA
+Disaster Management Advisory Committee,DMAC
+Department of Motor Vehicles,DMV
+Department of Natural Resources,DNR
+Department of Defense,DOD
+Department of Defense Directive,DODD
+Department of Defense Explosive Safety Board,DODESB
+Department of Energy,DOE
+Department of Education,DOEd
+Department of Health,DOH
+Department of the Interior,DOI
+Department of Justice,DOJ
+Department of Labor,DOL
+Department of Transportation,DOT
+Domestic Policy Council,DPC
+Disaster Personnel Operations Division,DPOD
+Department of Public Safety,DPS
+Department of Public Works,DPW
+Disaster Recovery Center,DRC
+Detention and Removal Office,DRO
+Division of Radiation Safety and Safeguards,DRSS
+Defense Science Board,DSB
+Defense Support to Civil Authority ,DSCA
+Defense Special Weapons Agency,DSWA
+Defense Technical Information Center,DTIC
+Drug Trafficking Organization,DTO
+Defense Threat Reduction Agency,DTRA
+Defense Technical Response Group,DTRG
+Diplomatic Telecommunications Service,DTS
+Defense Technical Security Agency,DTSA
+Department of Veterans Affairs,DVA
+Department of Water Resources,DWR
+Eastern Area Coordination Center,EACC
+Eastern Area Coordinating Group,EACG
+Euro-Atlantic Disaster Response Coordination Center,EADRCC
+Emergency Communications Center,ECC
+Emergency Coordination Functional Group,ECFG
+Economic Development Administration,EDA
+Economic Defense Advisory Committee,EDAC
+Equal Employment Opportunity Commission,EEOC
+Earthquake Engineering Research Institute,EERI
+Emergency Food and Shelter National Board,EFSNB
+Emergency Information and Coordination Center,EICC
+Environmental Justice,EJ
+Engineering Logistics Center,ELC
+Employee Labor Relations,ELR
+Emergency Management Agency,EMA
+Environmental Measurements Laboratory,EML
+Emergency Management Operations Center,EMOC
+Emergency Medical Preparedness Office,EMPO
+Emergency Management Strategic Healthcare Group,EMSHG
+Executive Office for Immigration Review,EOIR
+Emergency Operations Organization,EOO
+Environmental Protection Agency,EPA
+Emergency Prevention and Preparedness Council ,EPPC
+Earthquake Preparedness Center of Expertise,EQPCE
+Economic Resources Board,ERB
+Emergency Response Coordination Group,ERCG
+Energy Research and Development Administration,ERDA
+"Edgewood Research, Development and Engineering Center",ERDEC
+Emergency Relocation Group,ERG
+Environmental Research Laboratories ,ERL
+Effluents Radiation Protection Section,ERPS
+Emergency Response Senior Advisory Committee,ERSAC
+Executive Steering Committee,ESC
+Emergency Support Function Leaders Group,ESFLG
+Employer Support of the Guard and Reserve,ESGR
+Earth Science Information Center,ESIC
+Emergency Tactical Operations Center,ETOC
+Emergency Worker and Assistance Center,EWAC
+Emergency Worker Center,EWC
+Environmental and Water Resources Institute,EWRI
+FEMA Advisory Board,FAB
+Fire Apparatus Manufacturer's Association,FAMA
+Federal Air Marshal Service,FAMS
+FEMA Alternate Operations Center,FAOC
+Federal Agency Support Service Element,FASSE
+Federal Bureau of Investigation,FBI
+Financial and Banking Information Infrastructure Committee,FBIIC
+Farm Credit Administration,FCA
+Financial Crimes Division,FCD
+Functional Capability Element,FCE
+Federal Crop Insurance Corporation,FCIC
+Food and Drug Administration,FDA
+Federal Deposit Insurance Corporation,FDIC
+Forensic Documents Laboratory,FDL
+Federal Computer Incident Response Center,FedCIRC
+Federal Executive Institute,FEI
+Federal Emergency Management Agency,FEMA
+Financial Fraud Institute,FFI
+Federally Funded Research & Development Center,FFRDC
+Federal Geodetic Coordinating Committee,FGCC
+Federal Geographic Data Committee,FGDC
+Federal Highway Administration,FHWA
+Foreign Intelligence Advisory Board,FIAB
+Federal Interagency Coordination Council,FICC
+Federal Interagency Committee on Emergency Medical Services,FICEMS
+Flood Insurance Claims Office,FICO
+Financial Center,FinCen
+Federal Interagency Operations Center,FIOC
+Flood Insurance Producers National Committee,FIPNC
+FEMA Logistics Advisory Group,FLAG
+Federal Law Enforcement Training Center,FLETC
+Federal Labor Relations Authority,FLRA
+Floodplain Management Association,FMA
+Fire Marshals Association of North America,FMANA
+Federal Mediation and Conciliation Service,FMCS
+Federal Motor Carrier Safety Administration,FMCSA
+Flood Map Distribution Center,FMDC
+Farmers Home Administration,FmHA
+Flood Map Status Information Service,FMSIS
+Food and Nutrition Services,FNS
+Federal Preparedness Agency,FPA
+Fire Protection Demonstration Lab,FPDL
+Florida Power & Light,FPL
+Federal Protective Service,FPS
+Federal Railroad Administration,FRA
+Federal Reserve Board,FRB
+Federal Radiological Monitoring and Assessment Center,FRMAC
+Flood Response Office,FRO
+Federal Radiological Preparedness Coordinating Committee,FRPCC
+Facilities Radiological Safety and Safeguards Branch,FRSSB
+Federal Retirement Thrift Investment Board,FRTIB
+Flight Service District Office,FSDO
+Financial Services Group,FSG
+Food Safety and Inspection Service,FSIS
+Field Support Intelligence Unit,FSIU
+Federal Savings and Loan Insurance Corporation,FSLIC
+Federal Transit Administration,FTA
+Foreign Terrorist Organizations,FTO
+Fish and Wildlife Service,FWS
+Flood Zone Determination Company,FZDC
+General Aviation Airports Working Group,GAAWG
+Geographic Area Coordination Center,GACC
+General  Aviation Manufacturers Association,GAMA
+Greater Antilles Section,GANTSEC
+General Accounting Office,GAO
+Georgia Emergency Management Agency,GEMA
+Global Geospatial Information and Services,GGI&S
+Great Lakes Pilotage Advisory Committee,GLPAC
+Global Operations Security Center,GOSC
+Global Patient Movement Requirements Center,GPMRC
+Government Printing Office,GPO
+General Services Administration,GSA
+Hillsborough Area Regional Transit Authority,HARTline
+Health Canada,HC
+Health Care Financing Administration,HCFA
+Human Capital Office,HCO
+Hazardous Cargo Transportation Security,HCTS
+Hydrologic Engineering Center,HEC
+Headquarters Emergency Transportation,HET
+Headquarters and Headquarters Company,HHC
+Headquarters and Headquarters Detachment,HHD
+Health and Human Services,HHS
+Health and Human Services Emergency Operations Center,HHSEOC
+Hazardous Materials Advisory Council,HMAC
+Hydrometeorological Prediction Center,HPC
+Headquarters Department of the Army,HQDA
+US Army Corps of Engineers,USACE
+Human Resources Division,HRD
+Homeland Security Advisory Council,HSAC
+Homeland Security Advanced Research Projects Agency,HSARPA
+Homeland Security Operations Center,HSOC
+Homeland Security Presidential Directive,HSPD
+Homeland Security Terrorist Threat Intelligence Group,HSTTIG
+The Humane Society of the United States,HSUS
+Housing and Urban Development,HUD
+HAZUS User Group,HUG
+Health and Welfare Canada,HWC
+Information Analysis Center,IAC
+International Association of Chiefs of Police,IACP
+Integrated Acquisition Environment,IAE
+International Atomic Energy Agency,IAEA
+International Association of Emergency Managers,IAEM
+International Association of Fire Chiefs,IAFC
+International Association of Fire Fighters,IAFF
+International Association for Identifications,IAI
+Information Analysis and Infrastructure Protection,IAIP
+International Association of Refugee Law Judges,IARLJ
+International Association of Security and Investigative Regulators,IASIR
+International Air Transport Association,IATA
+International Broadcast Center,IBC
+Institute for Business and Home Safety,IBHS
+International Brotherhood of Teamsters,IBT
+International Bottled Water Association,IBWA
+Industrial College of the Armed Forces,ICAF
+International Civil Aviation Organization,ICAO
+Intergovernmental Consultation and Coordination Board,ICCB
+Interagency Coordinating Committee On Hurricanes,ICCOH
+International Critical Incident Stress Foundation,ICISF
+International City/County Management Association,ICMA
+Interagency Committee on Dam Safety,ICODS
+Incident Communications Public Affairs Coordination Committee,ICPACC
+Interagency Committee on Public Affairs in Emergencies,ICPAE
+International Committee of the Red Cross,ICRC
+International Commission on Radiological Protection,ICRP
+Interagency Committee on Seismic Safety in Construction,ICSSC
+Iowa Department of Emergency Management,IDEM
+Institute for Disaster Research,IDR
+Illinois Emergency Management Agency,IEMA
+International Emergency Management Group,IEMG
+International Federation of Airline Pilots Association,IFALPA
+Institute for Foreign Policy Analysis,IFPA
+Indian Health Service,IHS
+Interagency Intelligence Committee on Terrorism,IICT
+Information/Intelligence Fusion Center,IIFC
+Interagency Incident Management Group,IIMG
+Insurance Institute for Property Loss Reduction,IIPLR
+Information Integration Program Office,IIPO
+International Law Enforcement Academy,ILEA
+Interagency Modeling and Atmospheric Assessment Center,IMAAC
+Information Management Group,IMG
+International Maritime Organization,IMO
+Information Management and Requirements Division,IMRD
+Idaho National Engineering and Environmental Laboratory,INEEL
+Interagency National Executive Reserve,INER
+International Search and Rescue Advisory Group,INSARAG
+International Criminal Police Organization,INTERPOL
+International Organization for Standardization,IOS
+Imagery Policy and Security Committee,IPSCOM
+Interagency Radiological Assistance Committee,IRAC
+Industrial Research Institute,IRI
+Incorporated Research Institutions for Seismology,IRIS
+Information Resources Management Service,IRMS
+Internal Revenue Service,IRS
+Information Systems Architectural Advisory Group,ISAAG
+Information Systems Audit and Control Association,ISACA
+Information Sharing and Analysis Organization,ISAO
+Infrastructure Services Division,ISD
+Indiana State Emergency Management Agency,ISEMA
+Immigration Security Initiative,ISI
+International Security Management Association,ISMA
+Information Security Oversight Office,ISOO
+Information Systems Policy Advisory Group,ISPAG
+Information Systems Security Association,ISSA
+DHS Headquarters Operational Integration Staff,I-STAFF
+Imagery Science Validation Board,ISVB
+Information Technology Association of America,ITAA
+International Training Division,ITD
+International Tsunami Information Center,ITIC
+Information Technology Services Directorate,ITSD
+International Technical Working Group,ITWG
+Joint Advisory Committee,JAC
+Joint Commission on Accreditation of Hospitals,JCAH
+Joint Commission on Accreditation of Healthcare Organizations,JCAHO
+Joint Data Coordination Center,JDCC
+Joint Exercise Control Group,JECG
+Joint Emergency Operations Center,JEOC
+Joint Hazard Evaluation Center,JHEC
+Joint Interagency Coordination Group,JIACG
+Joint Information Bureau,JIB
+Joint Intelligence Center,JICPAC
+Joint Interagency Intelligence Support Element,JIISE
+Joint Investigative Operations Center,JIOC
+Joint Movement Center,JMC
+Joint Medical Mobilization Office,JMMO
+Joint Medical Regulating Office,JMRO
+Joint Nuclear Accident Coordinating Center,JNACC
+Joint Operations Center,JOC
+Joint Photographic Experts Group,JPEG
+Joint Public Information Center,JPIC
+Joint Patient Movement Requirements Center,JPMRC
+Joint Program Office,JPO
+Joint Regional Medical Planning Office,JRMPO
+Jacksonville Transportation Authority,JTA
+Joint Telecommunications Resources Board,JTRB
+Joint Typhoon Warning Center,JTWC
+Kansas City Commodity Office,KCCO
+Local Assistance Center,LAC
+Los Alamos National Laboratory,LANL
+Lee County Transit Authority,LeeTran
+Local Emergency Management Authority,LEMA
+Local Emergency Operations Center,LEOC
+Local Emergency Planning Committee,LEPC
+Local Emergency Prevention and Preparedness Council,LEPPC
+Law Enforcement Support Center,LESC
+Law Enforcement Working Group,LEWG
+Lead Federal Agency,LFA
+Local Federal Emergency Operations Center,LFEOC
+Local Health Department,LHD
+Local Law Enforcement Agency,LLEA
+Lawrence Livermore National Laboratory,LLNL
+Lower Manhattan Development Corporation,LMDC
+Louisiana Office of Emergency Preparedness,LOEP
+Local Preparedness and Prevention Council,LPPC
+Central Florida Regional Transportation Authority,LYNX
+Multi-Agency Coordination Group,MACGp
+Mid-America Earthquake Center,MAEC
+Mid-America GIS Council,MAGIC
+Mutual Aid Regional Advisory Committee,MARAC
+Maritime Administration,MARAD
+Maryland Rail Commuter,MARC
+Multidisciplinary Center for Earthquake Engineering Research,MCEER
+Mid-Continent Mapping Center,MCMC
+MERS Coordination Office,MCO
+Marine Corps Operations Center,MCOC
+Major Industrial Accidents Council of Canada,MIACC
+Maritime Intelligence Fusion Center,MIFC
+Mutual Legal Assistance Treaty,MLAT
+Main Media Center,MMC
+Merchant Marine Personnel Advisory Committee,MMPAC
+Minerals Management Service,MMS
+Mobilization Center,MOB Center
+Mobile Operations Center,MOC
+Motion Picture Expert Group,MPEG
+Mobile Reconstruction Information Center,MRIC
+Medical Research and Materiel Command,MRMC
+Military Support to Civil Authorities,MSCA
+Military Support to Civilian Law Enforcement Agencies,MSCLEA
+Mine Safety and Health Administration,MSHA
+Missile & Space Intelligence Center,MSIC
+Merit Systems Protection Board,MSPB
+Military Traffic Management Command,MTMC
+Meteorological and Unified Dose Assessment Center,MUDAC
+Metropolitan Washington Council of Governments,MWCOG
+Mt Weather Emergency Assistance Center,MWEAC
+Mt Weather Emergency Operations Center,MWEOC
+National Air Carrier Association,NACA
+National Association of County and City Health Officials,NACCHO
+National Association of Corporate Directors,NACD
+National Association of County Engineers,NACE
+National Agency Check with Inquiries,NACI
+National Association of Counties,NACo
+National Association of Development Organizations,NADO
+National Association of Flood & Stormwater Management Agencies,NAFSMA
+National Association of Home Builders,NAHB
+National Association of Independent Insurers,NAII
+National Association of Independent Insurance Adjusters,NAIIA
+Naval Medical Research Institute,NAMRI
+National Airborne Operations Center,NAOC
+National Academy of Public Administration,NAPA
+National Archives and Records Administration,NARA
+National Atmospheric Release Advisory Center,NARAC
+National Advanced Resource Technology Center,NARTC
+National Academy of Sciences,NAS
+National Aeronautics and Space Administration,NASA
+National Association for Search and Rescue,NASAR
+National Association of State Civil Defense Directors,NASCDD
+National Association of State Emergency Medical Services Directors,NASEMSD
+National Association of State Fire Marshals,NASFM
+National Association of State Title Three Program Officials,NASTTPO
+National Association of State Universities and Land-Grant Colleges,NASULGC
+National Air Traffic Controllers Association,NATCA
+North Atlantic Treaty Organization,NATO
+National Association for Waterfront Employees,NAWE
+National Biosecurity Analysis and Countermeasures Center,NBACC
+National Bioforensic Analysis Center,NBFAC
+National Boating Safety Advisory Council,NBSAC
+National Business Travel Association,NBTA
+National BioWeapons Defense Analysis Center,NBWDA
+National Command Authority,NCA
+National Congress of American Indians,NCAI
+National Center for Atmospheric Research,NCAR
+National Customs Brokers and Forwarders Association of America,NCBFAA
+National Coordinating Center,NCC
+National Council of the Churches of Christ,NCCC
+National Civilian Community Group,NCCG
+National Center for Disaster Decision Making,NCDDM
+National Center for Environmental Health,NCEH
+National Centers for Environmental Prediction,NCEP
+National Center for Geographic Information and Analysis,NCGIA
+National Crime Information Center,NCIC
+National Center for Infectious Diseases,NCID
+National Council on International Trade,NCIT
+National Commission on Libraries and Information Science,NCLIS
+National Center for Missing and Exploited Children,NCMEC
+National Council on Radiation Protection and Measurements,NCRPM
+National Center for Supercomputing Applications,NCSA
+National Cyber Security Division,NCSD
+National Council of State Legislators,NCSL
+National Center for State & Local Law Enforcement Training,NCSLLET
+National Counterterrorism Center,NCTC
+National Credit Union Administration,NCUA
+Network Design and Analysis Center,NDAC
+National Data Center,NDC
+National Defense Emergency Authorization,NDEA
+National Disaster Education Coalition,NDEC
+National Defense Industry Association,NDIA
+National Drug Intelligence Center,NDIC
+National Drought Mitigation Center,NDMC
+National Disaster Medical Operations Center,NDMOC
+National Disaster Medical System Operations Support Center,NDMSOSC
+National Domestic Preparedness Office,NDPO
+Naval District of Washington,NDW
+National Earthquake Center,NEC
+National Response Coordination Center,NRCC
+Newport Chemical Depot,NECD
+New England Floodplain and Stormwater Managers Association,NEFSMA
+National Environmental Health Association,NEHA
+Nuclear Energy Institute,NEI
+National Earthquake Information Center,NEIC
+National Earthquake Information Service,NEIS
+National Emergency Number Association,NENA
+National Emergency Operations Center,NEOC
+National Emergency Prevention and Preparedness Council,NEPPC
+North American Electric Reliability Council,NERC
+Northeast States Emergency Consortium,NESEC
+National Environmental Technology Application Center,NETAC
+National Emergency Training Center,NETC
+National Fire Academy,NFA
+National Fire Data Center,NFDC
+National Federation of Federal Employees,NFFE
+National Fallen Firefighters Foundation,NFFF
+National Foreign Intelligence Board,NFIB
+National Fire Information Council,NFIC
+National Fire Protection Association,NFPA
+National Fire Prevention and Control Administration,NFPCA
+Narcotics Financing Strategy Center,NFSC
+National Fire Science Curriculum Committee ,NFSCC
+National Geophysical Data Center,NGDC
+National Hurricane Center,NHC
+National Highway Transportation Safety Administration,NHTSA
+National Institute of Building Sciences,NIBS
+National Interagency Coordination Center,NICC
+National Interagency Counterdrug Institute,NICI
+National Institute of Environmental Health Services,NIEHS
+National Interagency Emergency Operations Center,NIEOC
+National Industrial Equipment Reserve,NIER
+National Interagency Fire Center,NIFC
+National Interagency Fire Coordination Center,NIFCC
+National Institute of Justice,NIJ
+National Imagery and Mapping Agency,NIMA
+National Institutes of Mental Health,NIMH
+National Institute for Occupational Safety and Health,NIOSH
+National Infrastructure Protection Center,NIPC
+National Infrastructure Simulation and Analysis Center,NISAC
+National Intelligence Support Element,NISE
+National Institute of Standards and Technology ,NIST
+National Institute for Urban Search and Rescue,NIUSR
+National Law Enforcement Coordination Center,NLECC
+National Labor Relations Authority,NLRA
+National Labor Relations Board,NLRB
+National Materials Advisory Board,NMAB
+National Military Command Center,NMCC
+National Marine Fisheries Service,NMFS
+National Maritime Intelligence Center,NMIC
+National Military Joint Intelligence Center,NMJIC
+Naval Medical Research Institute,NMRI
+National Maritime Security Advisory Committee,NMSAC
+Nuclear Materials Safeguards and Security,NMSS
+National Network Emergency Center,NNEC
+National Network Operations Branch,NNOB
+National Network Operations Center,NNOC
+National Nuclear Security Administration,NNSA
+National Office,NAO
+National Oceanic and Atmospheric Administration,NOAA
+National Organization of Black Law Enforcement Executives,NOBLE
+North American Aerospace Defense Command,NORAD
+Northern Command,NORTHCOM
+National Offshore Safety Advisory Committee,NOSAC
+National Pollution Funds Center,NPFC
+National Preparedness Leadership Academy,NPLA
+National Property Management Association,NPMA
+Naval Pacific Meteorology and Oceanography Center,NPMOC
+National Preparedness and Prevention Council,NPPC
+National Partnership for Reinventing Government,NPR
+National Park Service,NPS
+National Processing Service Centers,NPSC
+National Public Safety Telecommunications Council,NPSTC
+Nuclear Regulatory Commission Operations Center,NRCOC
+Natural Resources Conservation Service,NRCS
+Natural Resources Conservation Service District Conservationist,NRCSDC
+National Reconnaissance Office,NRO
+National Railway Passenger Commission,NRPC
+Navigation Safety Advisory Council,NSAC
+National Security Decision Directive,NSDD
+National Strike Force Coordination Center,NSFCC
+National States Geographic Information Council,NSGIC
+National Strategy for Homeland Security,NSHS
+National Security Presidential Directive,NSPD
+National Society of Professional Engineers,NSPE
+National Severe Storms Forecast Center,NSSFC
+National Severe Storms Laboratory,NSSL
+National Security Telecommunications Advisory Committee,NSTAC
+National Science & Technology Council,NSTC
+National Threat Assessment Center,NTAC
+National Teleregistration Center at Mount Weather,NTC-MW
+National Treasury Employees Union,NTEU
+National Telecommunications and Information Administration,NTIA
+National Technical Information Service,NTIS
+National Technical Means of Reconnaissance,NTMR
+National Transportation Safety Board,NTSB
+National Telecommunications Standards Committee,NTSC
+National Urban League,NUL
+Nuclear Management and Resources Council,NUMARC
+National Vessel Documentation Center,NVDC
+National Volunteer Fire Council,NVFC
+National Vessel Movement Center,NVMC
+National Voluntary Organization Active in Disasters,NVOAD
+National Warning Center,NWC
+National Wildfire Coordinating Group,NWCG
+National Weather Service,NWS
+National Weather Service Forecast Office,NWSFO
+National Weather Wire Service,NWWS
+Office of the Armed Forces Medical Examiner,OAFME
+Office of the Assistant Secretary for Health,OASH
+Organizational Attack Working Group,OAWG
+Office of the Comptroller of the Currency,OCC
+Office of Community Development,OCD
+Office of Cerro Grande Fire Claims,OCGFC
+Office of Civilian Health and Medical Program of the Uniformed Services,OCHAMPUS
+Office of Critical Infrastructure Protection and Emergency Preparedness,OCIPEP
+Organizing Committee for the Olympic Games,OCOG
+Office of Crisis Planning and Management,OCPM
+Office of Civilian Radioactive Waste Management,OCRWM
+Oklahoma Department of Civil Emergency Management,ODCEM
+Oklahoma Department of Emergency Management,ODEM
+Office for Domestic Preparedness,ODP
+Office of Detention and Removal Operations,ODRO
+Organization for Economic Cooperation & Development,OECD
+Office of Emergency Management,OEM
+Ohio Emergency Management Agency,OEMA
+Office of Emergency Medical Preparedness,OEMP
+Office of Emergency Response,OER
+Office of Emergency Services,OES
+Office of Emergency Transportation,OET
+Office of Foreign Assets Control,OFAC
+Office of Foreign Disaster Assistance,OFDA
+Office of Financial Management,OFM
+Oklahoma Floodplain Management Association,OFMA
+Office of Field Operations,OFO
+Office of Food Security and Emergency Preparedness,OFSEP
+Office of General Counsel,OGC
+Office of Government Ethics,OGE
+Office of Human Resources Management,OHRM
+Office of Homeland Security (now HSC),OHS
+Office of Investigations,OI
+Office of International Affairs,OIA
+Office of International Enforcement,OIE
+Office of the Inspector General,OIG
+Office of Incident Management,OIM
+Operational Intelligence Working Group,OIWG
+Office of the Joint Chiefs of Staff,OJCS
+Office of Justice Programs,OJP
+Office of Legislative Affairs,OLA
+Office of Management and Budget,OMB
+Office of the Manager National Communications System,OMNCS
+Office of Mission to Planet Earth,OMTPE
+Office of National Drug Control Policy,ONDCP
+Office of National Preparedness,ONP
+Office of National Risk Assessment,ONRA
+Office of Public Health and Science,OPHS
+Office of Personnel Management,OPM
+Office of Primary Responsibility,OPR
+Office of Radiation and Indoor Air,ORIA
+Oak Ridge Institute for Science and Education,ORISE
+Oak Ridge National Laboratory,ORNL
+Offsite Response Organization,ORO
+Office of Regulations and Rulings,OR&R
+Organization for Security and Cooperation in Europe,OSCE
+Office of Small and Disadvantaged Business Utilization,OSDBU
+Occupational Safety and Health Administration,OSHA
+Office of State and Local Government Coordination and Preparedness,OSLGC&P
+On-Site Operations Coordination Center,OSOCC
+Office of Science and Technology Policy,OSTP
+Organisation du Trait√© de l'Atlantlique Nord,OTAN
+Office of Training & Development,OTD
+Office of Trade Relations,OTR
+Office of Thrift Supervision,OTS
+Office of Transportation Security Policy,OTSP
+Orlando Utilities Company,OUC
+Office for Victims of Crime,OVC
+Office of Volunteerism Initiatives,OVI
+Office of the Vice President,OVP
+Office of Weapons of Mass Destruction,OWMD
+Private Automatic Branch Exchange,PABX
+Patient Airlift Control Center,PACC
+U.S. Pacific Command,PACOM
+Pan American Health Organization ,PAHO
+Port Authority of New York and New Jersey,PANYNJ
+Pine Bluff Arsenal,PBA
+Program Budget Review Board ,PBRB
+President's Commission on Critical Infrastructure Protection,PCCIP
+Pasco County Public Transportation,PCPT
+Progress Energy Florida,PEF
+Pennsylvania Emergency Management Agency,PEMA
+President's Emergency Operations Center,PEOC
+Primary Entry Point Advisory Committee,PEPAC
+Public Entity Risk Institute,PERI
+Public Health Service,PHS
+Plum Island Animal Disease Center,PIADC
+Pacific Logistics Center,PLC
+Program Monitoring Group,PMG
+Points of Light Foundation,POLF
+Plain Old Telephone Service,POTS
+Prevention and Preparedness Council,PPC
+Procurement Review Board,PRB
+USACE Engineer Battalion,PRIME POWER
+Planning Support Branch,PSB
+Public Safety and Emergency Preparedness Canada,PSEPC
+Pinellas Suncoast Transit Authority,PSTA
+Port Security Unit,PSU
+Public Safety Wireless Advisory Committee,PSWAC
+Pacific Tsunami Warning Center,PTWC
+Pueblo Chemical Depot,PUCD
+Regional Assistance Committee Advisory Council,RAC AC
+Radio Amateur Civil Emergency Services,RACES
+Radiological Laboratory,RADLAB
+Rapid Assessment Work Group,RAWG
+Rural Business Cooperative Service,RBCS
+Red Cross Assistance Center,RCAC
+Regional Civil Defense Coordinating Board,RCDCB
+Radiation or Radiological Emergency Assistance Center ,REAC
+Radiological Emergency Assistance Center,REAC/TS
+Response to Emergencies and Disasters Institute ,READI
+Regional Emergency Notification Center,RENC
+River Forecast Center,RFC
+Rural Housing Service,RHS
+Recovery Information Center,RIC
+Regional Interagency Steering Committee,RISC
+Repetitive Loss Target Group,RLTG
+Registered Land Surveyor,RLS
+Risk Management Agency,RMA
+Resource Management Group,RMG
+Rocky Mountain Regional Interagency Wildland Fire Communications Group,RMRIWFCG
+Resources Management Transformation Office,RMTO
+Reserve Naval Mobile Construction Battalion,RNMCB
+Regional Response Coordination Center,RRCC
+Reverse Osmosis Water Purification Unit,ROWPU
+Regional Point of Contact,RPOC
+Radiological Pilot Program Office,RPPO
+Regional Radiological Assistance Committee,RRAC
+Regional Response Force,RRF
+Research and Special Programs Administration,RSPA
+Response Support Unit,RSU
+Real-Time Analytical Platform,RTAP
+Rural Utilities Service,RUS
+DOT Office of Intelligence Security,S-60
+State Administrative Agency ,SAA
+Substance Abuse and Mental Health Services Administration,SAMHSA
+Scheduled Airline Ticket Office,SATO
+Soldier and Biological Chemical Command,SBCCOM
+Small Business Innovation Research ,SBIR
+Secretary's Command Center,SCC
+Southern California Earthquake Center,SCEC
+Senior Civil Emergency Planning Committee,SCEPC
+Software Control Integration Center,SCIC
+Supreme Court of the United States,SCOTUS
+Soil and Conservation Service,SCS
+Software Development Division,SDD
+Securities and Exchange Commission ,SEC
+State Emergency Coordination Center,SECC
+Software Engineering Institute,SEI
+State Emergency Management Agency,SEMA
+State Emergency Management Office,SEMO
+State Emergency Operations Center ,SEOC
+State Emergency Response Commission,SERC
+Senior Executive Service,SES
+State Historic Preservation Office,SHPO
+Senior Interagency Coordination Group,SICG
+Strategic Industries and Economic Security,SIES
+Strategic Information and Operations Center ,SIOC
+State and Local Officials Senior Advisory Committee,SLSAC
+State Mapping Advisory Committee,SMAC
+Specialty Management Center,SMC
+System Management Control Center,SMCC
+Specialty Management Group,SMG
+State Mental Health Agency,SMHA
+Security Management Office,SMO
+Sandia National Laboratory,SNL
+Storm Prediction Center,SPC
+Society for the Prevention of Cruelty to Animals,SPCA
+Small Business Development Center,SPDC
+Senior Performance Review Board,SPRB
+Strategic Review Steering Committee,SRSC
+Secret Service Forensic Sciences Division ,SSFSD
+Strategic Sourcing Group,SSG
+Special Temporary Authority,STA
+State Area Command,STARC
+Surface Transportation Board,STB
+Security Technology Deployment Office,STDO
+Surface Transportation Information Sharing and Analysis Center,ST ISAC
+Sniper Tactical Operations Center,STOC
+Severe Weather Center,SWC
+Security Working Group ,SWG
+Tactical Specialized Management Center,TAC-SMC
+Texas Engineering Extension Service,TEEX
+Tennessee Emergency Management Agency,TEMA
+Treasury Executive Office of Asset Forfeiture ,TEOAF
+Transportation Emergency Operations Center,TEOC
+Task Force Control Center,TFCC
+Transportation Information Operations Center,TIOC
+Territory Logistics Centers,TLC
+Territory Logistics Center- Central,TLC-C
+Territory Logistics Center- East,TLC-E
+Territory Logistics Center-West,TLC-W
+Tropical Prediction Center,TPC
+Department of the Treasury,Treas
+Department of the Treasury,TRES
+Towing Safety Advisory Committee ,TSAC
+Transportation Security Command Center,TSCC
+Technical Services Division,TSD
+Technical Support Working Group,TSWG
+Technical Training Center,TTC
+Terrorism/Terrorist Threat Integration Center ,TTIC
+Tennessee Valley Authority,TVA
+University Consortium for Geographic Information Science,UCGIS
+United Methodist Committee On Relief,UMCOR
+Unified Medical Operations Center,UMOC
+United Nations Disaster Relief Organization,UNDRO
+United Nations High Commissioner for Refugees,UNHCR
+United Nations Special Commission,UNSCOM
+USACE Operations Center,UOC
+Urban and Regional Information Systems Association,URISA
+United States Army Chemical and Biological Defense Command,USACBDC
+US Arms Control and Disarmament Agency,USACDA
+United States Army Corps of Engineers,USACE
+United States Army Center for Health Promotion and Preventive Medicine,USACHPPM
+United States Army Chemical Material Destruction Agency,USACMDA
+United States Army Defense Artillery Center and School,USADACS
+United States Air Force ,USAF
+United States Air Force Academy ,USAFA
+United States Agency for International Development ,USAID
+U.S. Association for Importers of Textiles and Apparel,USA-ITA
+United States Army Medical Research Institute of Chemical Defense,USAMRICD
+United States Army Medical Research Institute for Infectious Disease ,USAMRIID
+United States Army Nuclear and Chemical Agency,USANCA
+United States Army Reserve,USAR
+United States Border Patrol,USBP
+United States Bureau of Reclamation,USBR
+United States Coast Guard ,USCG
+United States Coast Guard Reserve,USCGR
+United States Citizenship and Immigration Services,USCIS
+United States Committee On Large Dams ,USCOLD
+United States Customs Service ,USCS
+U.S. Customs Service COBRA Fees Advisory Committee ,USCSCFAC
+United States Department of Agriculture ,USDA
+United States Department of Agriculture,USDA
+United States Department of the Interior,USDOI
+United States Department of Labor,USDOL
+United States Department of Transportation,USDOT
+United States Fire Administration ,USFA
+United States Forest Service,USFS
+United States Fish and Wildlife Service,USFWS
+United States Geological Survey,USGS
+United States Information Agency ,USIA
+United States Joint Forces Command ,USJFCOM
+United States Marine Corps ,USMC
+United States Marine Corps Reserve,USMCR
+United States Army Medical Research Institute of Chemical Defense,USMRICD
+United States Marshals Service ,USMS
+United States Navy ,USN
+United States Naval Reserve,USNR
+United States Northern Command ,USNORTHCOM
+United States Olympic Committee,USOC
+United States Pacific Command,USPACOM
+United States Public Health Service ,USPHS
+United States Postal Inspection Service ,USPIS
+United States Park Police ,USPP
+United States Postal Service ,USPS
+United States Special Operations Command,USSOCOM
+United States Southern Command,USSOUTHCOM
+United States Space Command,USSPACECOM
+United States Secret Service ,USSS
+United States Strategic Command,USSTRATCOM
+United States Telecom Association,USTA
+United States Trade Representative Office ,USTR
+United States Transportation Command,USTRANSCOM
+United States Virgin Islands,USVI
+United States Visitor and Immigrant Status Indicator Technology ,US-VISIT
+Voluntary Agency Liaison,VAL
+Veteran's Administration Medical Center,VAMC
+Virginia Department of Emergency Management,VDEM
+Voluntary Early Retirement Authority,VERA
+Volunteer Fire Department,VFD
+Veterans Health Administration ,VHA
+Volunteers In Police Service ,VIPS
+Visual Information Support Center,VISC
+Volunteers In Service To America,VISTA
+Volunteers In Technical Assistance,VITA
+Virgin Islands Territorial Emergency Management Agency,VITEMA
+Virginia National Processing Service Center,VNPSC
+Volunteers of America,VOA
+Voluntary Organizations Active in Disaster,VOAD
+Volunteer Reception Center,VRC
+Wide Area Telecommunications Service,WATS
+West Coast & Alaska Tsunami Warning Center,WCATWC
+World Customs Organization,WCO
+White House Communications Agency,WHCA
+White House Liaison Office,WHLO
+White House Military Office,WHMO
+World Health Organization ,WHO
+Washington Headquarters Services,WHS
+Washington Metropolitan Area Transport Authority ,WMATA
+WMD Decision Analysis Center ,WMD-DAC
+World Meteorological Organization ,WMO
+Western States Seismic Policy Council,WSSPC
+World Trade Organization ,WTO
+West Virginia Office of Emergency Services,WVOES
+Youth Conservation Corps,YCC
+Agriculture Adjustment Administration,AAA
+American Automobile Association,AAA
+Applicant Assistance Center,AAC
+Association of American Railroads,AAR
+American Bankers Association,ABA
+American Bar Association,ABA
+American Baptist Churches,ABC
+Agency Command Center,ACC
+Air Combat Command,ACC
+American Chemistry Council,ACC
+Aviation Command Center,ACC
+American Council on Education,ACE
+Army Corps of Engineers,ACE
+Administration for Children and Families,ACF
+Airports Council International,ACI
+Acreage Conservation Reserve,ACR
+Adventist Community Services,ACS
+Alternate Command Staff,ACS
+Act Adventist Development and Relief Agency,ADRA
+Atomic Energy Commission,AEC
+Aeromedical Evacuation Coordination Center,AECC
+American Evangelical Christian Church,AECC
+Air Force,AF
+Association of General Contractors,AGC
+American Institute of Architects,AIA
+American Insurance Association,AIA
+Agency Logistics Center,ALC
+Airlift Control Center,ALCC
+Air Mobility Command,AMC
+Army Materiel Command,AMC
+American Meteorological Society,AMS
+Aircraft Operating Center,AOC
+Army Operations Center,AOC
+American Planning Association,APA
+Agriculture Research Service,ARS
+Advanced Systems Center,ASC
+Application Support Center,ASC
+Airline Transportation Association,ATA
+Applied Technology Council,ATC
+Board of Immigration Appeals,BIA
+Bureau of Indian Affairs,BIA
+Border Patrol Agent,BPA
+Bureau of Transportation Statistics,BTS
+Customs Cybersmuggling Center,C3
+Citizens' Advisory Commissions,CAC
+Civil Applications Committee,CAC
+Climate Analysis Center,CAC
+Crisis Action Center,CAC
+Caribbean Area Office,CAO
+Civil Air Patrol,CAP
+Combat Air Patrol,CAP
+Chemical Abstract Service,CAS
+Collier Area Transit,CAT
+Contractors and Builders Association,CBA
+Congressional Budget Office,CBO
+Community Based Organization,CBO
+Coordination Center,CC
+Commodity Credit Corporation,CCC
+Congregate Care Center,CCC
+Crisis Coordination Center,CCC
+Claims Coordinating Office,CCO
+Cognizant Federal Agency,CFA
+Coast Guard,CG
+Citizenship and Immigration Services,CIS
+Chemical Manufacturers Association,CMA
+Chemical Materials Agency,CMA
+Center for Marine Conservation,CMC
+Crisis Management Center,CMC
+Customs Management Centers,CMC
+Corporation for National Security,CNS
+Corporation for National Service,CNS
+Combat Operations Center,COC
+Community Reuse Organization,CRO
+Catholic Relief Services,CRS
+Community Relations Service,CRS
+Congressional Research Service,CRS
+Community Services Administration,CSA
+Council of State Governments,CSG
+Counterterrorism Security Group,CSG
+Canadian Security Intelligence Service,CSIS
+Center for Strategic International Studies,CSIS
+Conference and Training Center,CTC
+Counter-Terrorism Center,CTC
+Counterterrorist Division,CTD
+Church World Service,CWS
+Department of the Army,DA
+Disaster Assistance Center,DAC
+Defense Ammunition Center,DCA
+Defense Communications Agency,DCA
+Document Control Center,DCC
+Donation Coordination Center,DCC
+Drug Enforcement Administration,DEA
+DCI Environmental Center,DEC
+Director's Executive Council,DEC
+Disasters Emergency Committee,DEC
+Department of Environmental Management,DEM
+Division of Emergency Management,DEM
+Department of Environmental Protection,DEP
+Disaster Emergency Services,DES
+Division of Emergency Services,DES
+Defense Mapping Agency,DMA
+Defense Nuclear Agency,DNA
+Department of Commerce,DOC
+Department of Conservation,DOC
+Department of Corrections,DOC
+Department Operations Center,DOC
+Department of State,DOS
+Enterprise Architecture Board,EAB
+Energy Assurance Office,EAO
+Emergency Coordination Group,ECG
+Exercise Control Group,ECG
+Department of Education,ED
+EROS Data Center,EDC
+Energy Disruption Committee,EDC
+Epidemiological Intelligence Service,EIS
+European Olympic Committee,EOC
+Emergency Preparedness Operations Center,EPOC
+Employment and Training Administration,ETA
+Emergency Transportation Center,ETC
+Federal Aviation Administration,FAA
+Family Assistance Center,FAC
+Financial Attack Center,FAC
+Foreign Air Carrier,FAC
+Food & Agricultural Organization,FAO
+Foreign Agricultural Service,FAS
+Fire Corps,FC
+Federal Communications Commission,FCC
+Federal Coordinating Center,FCC
+Food and Consumer Service,FCS
+Farm Credit Service,FCS
+Federal Executive Board,FEB
+Federal Energy Regulatory Commission,FERC
+Federal Housing Administration,FHA
+Federal Maritime Commission,FMC
+Federal Mobilization Center,FMC
+FEMA Operations Center,FOC
+Forward Operations Center,FOC
+Family of Services,FOS
+Federal Operations Support,FOS
+Federal Power Commission,FPC
+Federal Records Center,FRC
+Federal Regional Center,FRC
+Federal Response Center,FRC
+Forest Service,FS
+Farm Service Agency,FSA
+Federal Support Center,FSC
+FEMA Storage Center,FSC
+Forensic Services Division,FSD
+Federal Trade Commission,FTC
+Homeland Security,HLS
+Homeland Security,HS
+Human Services,HS
+Health Service Command,HSC
+Homeland Security Center,HSC
+Homeland Security Council,HSC
+Incident Command Center,ICC
+Intelligence Control Center,ICC
+International Code Council,ICC
+Infrastructure Coordination Division,ICD
+Institute of Chemical Defense,ICD
+Immigration and Customs Enforcement,ICE
+Incident Command Post,ICP
+Initial Contingency Staff,ICS
+International Energy Agency,IEA
+International Hurricane Center,IHC
+International Medical Corps,IMC
+Immigration and Naturalization Service,INS
+International Olympic Committee,IOC
+Interagency Planning Committee,IPC
+International Paralympic Committee,IPC
+Information and Planning Section,IPS
+International Port Security,IPS
+Information Resources Board,IRB
+Investment Review Board,IRB
+Information Resources Center,IRC
+Information Sharing and Analysis Center,ISAC
+Infrastructure Sector Advisory Committee,ISAC
+Interstate Commerce,ISC
+Incident Support Organization,ISO
+Insurance Services Office,ISO
+International Standards Organization,ISO
+Information Security Oversight Committee,ISOC
+Information Technology Committee,ITC
+International Trade Commission,ITC
+Joint Action Group,JAG
+Joint Information Center,JIC
+Joint ICE Center,JIC
+Joint Intelligence Center,JIC
+Law Enforcement Agency,LEA
+Learning Resource Center,LRC
+Logistics Readiness Center,LRC
+Legal Services Corporation,LSC
+Life Support Center,LSC
+Mapping & Analysis Center,MAC
+Multi-Agency Coordination Center,MACC
+Multi Agency Crime Center,MACC
+Master of Business Administration,MBA
+Mortgage Bankers Association,MBA
+Marine Corps,MC
+Mobilization Center,MC
+Mobility Control Center,MCC
+Movement Coordination Center,MCC
+Mission Control Center,MCC
+Management Directive,MD
+Maine Emergency Management Agency,MEMA
+Maryland Emergency Management Agency,MEMA
+Massachusetts Emergency Management Agency,MEMA
+Mississippi Emergency Management Agency,MEMA
+Missouri Emergency Management Agency,MEMA
+Motor & Equipment Manufacturers Association,MEMA
+Media Information Center,MIC
+Military Police,MP
+Midterm Planning Committee,MPC
+Management Review Council,MRC
+Medical Reserve Corps,MRC
+Marine Safety Center,MSC
+Map Service Center,MSC
+Major Subordinate Command,MSC
+Mobile Switching Center,MSC
+National Advisory Committee,NAC
+Nebraska Avenue Center,NAC
+National Capitol Planning Commission,NCPC
+National Crime Prevention Council,NCPC
+National Emergency Management Association,NEMA
+Nebraska Emergency Management Agency,NEMA
+National Flood Determination Association,NFDA
+National Funeral Directors Association,NFDA
+National Geospatial-Intelligence Agency,NGA
+National Governor Association,NGA
+National Guard Bureau,NGB
+National Infrastructure Advisory Council,NIAC
+National Iranian American Council,NIAC
+National Instrumentation Center,NIC
+NIMS Integration Center,NIC
+National League of Cities,NLC
+National Meteorological Center,NMC
+National Olympic Committee,NOC
+National Operations Center,NOC
+Navy Operations Center,NOC
+Negotiations Operations Center,NOC
+Network Operations Center,NOC
+National Paralympic Committee,NPC
+National Petroleum Council,NPC
+National Records Center,NRC
+National Research Council,NRC
+National Response Center,NRC
+Nuclear Regulatory Commission,NRC
+National Response Coordination Center,NRCC
+Northern Regional Coordination Center,NRCC
+National Security Agency,NSA
+National Sheriff Association,NSA
+National Safety Council,NSC
+National Security Council,NSC
+NFIRS Support Center,NSC
+National Security Directive,NSD
+National Science Foundation,NSF
+National Strike Force,NSF
+National Targeting Center,NTC
+National Teleregistration Center,NTC
+Office of Air and Radiation,OAR
+Office of Oceanic and Atmospheric Research,OAR
+Office of Administrative Support,OAS
+Office of Aircraft Services,OAS
+Organization of American States,OAS
+Office of Congressional Affairs,OCA
+Original Classification Authority,OCA
+Office of Collateral Responsibility,OCR
+Office of Emergency Preparedness,OEP
+Office of Finance,OFF
+Office of the Regional Director,ORD
+Operation Safe Commerce,OSC
+Operations or Operational Support Center,OSC
+Office of the Secretary of Defense,OSD
+Operations Support Division,OSD
+Office of the Secretary for Transportation,OST
+Political Action Committee,PAC
+Primary Agency Committee,PAC
+Pacific Area Office,PAO
+Public Building Service,PBS
+Polk County Transit,PCT
+Police Department,PD
+Pacific Disaster Center,PDC
+Performance Evaluation Group,PEG
+Primary Federal Agency,PFA
+Procurement Funding Authority,PFA
+Postal Rate Commission,PRC
+Protective Security Division,PSD
+Public Technology Inc.,PTI
+Regional Airline Association,RAA
+Regional Assistance Committee,RAC
+Red Cross,ARC
+Regional Climate Center,RCC
+Rescue Coordination Center,RCC
+Rural Electrification Administration,REA
+Rural Housing Agency,RHA
+Regional Planning Agent,RPA
+Salvation Army,SA
+Science Applications International Corporation,SAIC
+Small Business Administration,SBA
+Security Control of Air Traffic,SCAT
+Space Coast Area Transit,SCAT
+Standards Development Organizations,SDO
+Safety Management Institute,SMI
+Smithsonian Institute,SMI
+State or Security Operations Center,SOC
+Senior Policy Group,SPG
+Self Storage Association,SSA
+Social Security Administration,SSA
+Strategic Storage Center,SSC
+Satellite Teleregistration Center,STC
+Satellite Transmission Unit,STU
+Secure Telephone Unit,STU
+Technical Advisory Committee,TAC
+Technical Assistance Contractor,TAC
+Technology & Architecture Group,TAG
+Threat Advisory Group,TAG
+Telecommunications Center,TCC
+Transportable Communications Center,TCC
+Telephone Contact Center,TCC
+Telecommunications Industry Association,TIA
+Transportation Management Center,TMC
+Travel Management Center,TMC
+Transportation Operating Agency,TOA
+Tactical Operations Center,TOC
+Traffic Operations Center,TOC
+Transition Planning Office,TPO
+Telephone Response Center,TRC
+Technology Review Committee,TRC
+The Salvation Army,TSA
+Transportation Security Administration,TSA
+Technical Services Branch,TSB
+Training Support Brigade,TSB
+Technical Support Center,TSC
+Terrorist Screening Center,TSC
+Department of Veteran's Affairs,VA
+Young Lawyers Division,YLD
+Specialized Management Center,SMC
+Aeromedical Evacuation Control Center,AECC
+Disaster Application Center,DAC
+Emergency Operations Center,EOC
+Office of Emergency Preparedness,OEP
+AAAE,AAAE
+AAEI,AAEI
+AAFB,AAFB
+AAMVA,AAMVA
+AAPA,AAPA
+AARP,AARP
+AASHTO,AASHTO
+AAU,AAU
+ABAG,ABAG
+ABMC,ABMC
+ABNCP,ABNCP
+ACAA,ACAA
+ACDA,ACDA
+ACGIH,ACGIH
+ACHP,ACHP
+ACI/NA,ACI/NA
+ACIP,ACIP
+ACIR,ACIR
+ACPSEM,ACPSEM
+ACSM,ACSM
+ACTD,ACTD
+ACWG,ACWG
+ADEM,ADEM
+ADES,ADES
+ADGGS,ADGGS
+ADO,ADO
+AEA,AEA
+AECB,AECB
+AEI,AEI
+AEIC,AEIC
+AEMA,AEMA
+AFCEA,AFCEA
+AFGE,AFGE
+AFGWC,AFGWC
+AFMLS,AFMLS
+AFOSC,AFOSC
+AFRCC,AFRCC
+AFRES,AFRES
+AFRRI,AFRRI
+AFTAC,AFTAC
+AGCA,AGCA
+AHCC,AHCC
+AHG,AHG
+AID,AID
+AIG,AIG
+ALCOM,ALCOM
+ALERT,ALERT
+ALPA,ALPA
+AMA,AMA
+AMB,AMB
+AMCCOM,AMCCOM
+AMID,AMID
+AMOC,AMOC
+AMSC,AMSC
+AMTI,AMTI
+AMWA,AMWA
+ANAD,ANAD
+ANCA,ANCA
+ANCDF,ANCDF
+ANG,ANG
+ANGB,ANGB
+ANL,ANL
+ANOC,ANOC
+ANPSC,ANPSC
+ANRC,ANRC
+ANSER,ANSER
+ANSI,ANSI
+AoA,AoA
+APCO,APCO
+APEC,APEC
+APHA,APHA
+APHIS,APHIS
+APHL,APHL
+APOD,APOD
+APOE,APOE
+APRSAC,APRSAC
+APTA,APTA
+APWA,APWA
+ARC,ARC
+ARG,ARG
+ARNG,ARNG
+A-ROC,A-ROC
+ARPA,ARPA
+ARRL,ARRL
+ARSOF,ARSOF
+ARTCC,ARTCC
+ARWO,ARWO
+ASCE,ASCE
+ASDSO,ASDSO
+ASEAN,ASEAN
+ASFPM,ASFPM
+ASIS,ASIS
+ASLB,ASLB
+ASME,ASME
+ASMRO,ASMRO
+ASPE,ASPE
+ASPRS,ASPRS
+ASSE,ASSE
+ASTHO,ASTHO
+ASTM,ASTM
+ATB,ATB
+ATF,ATF
+ATSDR,ATSDR
+ATWC,ATWC
+AUVSI,AUVSI
+AVC,AVC
+AWRA,AWRA
+BACM,BACM
+BAER,BAER
+BATF,BATF
+BBRS,BBRS
+BCIS,BCIS
+BDC,BDC
+BENS,BENS
+BGAD,BGAD
+BGCA,BGCA
+BICE,BICE
+BIFC,BIFC
+BLM,BLM
+BMC,BMC
+BOR,BOR
+BPWG,BPWG
+B&SA,B&SA
+BSC,BSC
+BSSC,BSSC
+CAG,CAG
+CAPA,CAPA
+CAPC,CAPC
+CASU,CASU
+CBD,CBD
+CBDCOM,CBDCOM
+CBIAC,CBIAC
+CBIRF,CBIRF
+CBP,CBP
+CBPMO,CBPMO
+CBQRF,CBQRF
+CCB,CCB
+CCFP,CCFP
+CCG,CCG
+CCND,CCND
+CCRA,CCRA
+CCSL,CCSL
+CDC,CDC
+CDCP,CDCP
+CDERA,CDERA
+CDP,CDP
+CDRG,CDRG
+CDRG-PAC,CDRG-PAC
+CEA,CEA
+CEB,CEB
+CED,CED
+CEMA,CEMA
+CEMO,CEMO
+CENR,CENR
+CEOC,CEOC
+CEOS,CEOS
+CEPA,CEPA
+CEPPO,CEPPO
+CEQ,CEQ
+CERC,CERC
+CERT/CC,CERT/CC
+CEXS,CEXS
+CFIUS,CFIUS
+CFIVSAC,CFIVSAC
+CFSA,CFSA
+CFSI,CFSI
+CFTC,CFTC
+CGD,CGD
+CGEOC,CGEOC
+CGISS,CGISS
+CGS,CGS
+CHEMTREC,CHEMTREC
+CIA,CIA
+CIAD,CIAD
+CICAD,CICAD
+CID,CID
+CIDA,CIDA
+CIFFC,CIFFC
+CIMA,CIMA
+CIPB,CIPB
+CIPIC,CIPIC
+CIPWG,CIPWG
+CIRG,CIRG
+CITAC,CITAC
+CITO,CITO
+CMCAC,CMCAC
+CMG,CMG
+CMHS,CMHS
+CMOC,CMOC
+CNSC,CNSC
+CNSNS,CNSNS
+COAC,COAC
+COAP,COAP
+COE,COE
+CONUSA,CONUSA
+COUSCS,COUSCS
+CPA,CPA
+CPC,CPC
+CPHC,CPHC
+CPSC,CPSC
+CRAF,CRAF
+CRDC,CRDC
+CREW,CREW
+CRREL,CRREL
+CRWRC,CRWRC
+CSEM,CSEM
+CSH,CSH
+CSHIB,CSHIB
+CSIL,CSIL
+CSREES,CSREES
+CSTARC,CSTARC
+CSTE,CSTE
+CTAC,CTAC
+CTIA,CTIA
+CTOC,CTOC
+CTOEM,CTOEM
+CTUIR,CTUIR
+CUREE,CUREE
+CUSEC,CUSEC
+CWU,CWU
+DAAC,DAAC
+DA PAM,DA PAM
+DARO,DARO
+DARPA,DARPA
+DASC,DASC
+DCAA,DCAA
+DCCC,DCCC
+DCD,DCD
+DCEMA,DCEMA
+DECD,DECD
+DED,DED
+DESCOM,DESCOM
+DFAIT,DFAIT
+DFAS,DFAS
+DFC,DFC
+DFSG,DFSG
+DFTO,DFTO
+DHS,DHS
+DHUD,DHUD
+DIA,DIA
+DIHS,DIHS
+DII,DII
+DIRC,DIRC
+DIRNSA,DIRNSA
+DIS,DIS
+DISA,DISA
+DISCO,DISCO
+DLA,DLA
+DMAC,DMAC
+DMV,DMV
+DNR,DNR
+DOD,DOD
+DODD,DODD
+DODESB,DODESB
+DOE,DOE
+DOEd,DOEd
+DOH,DOH
+DOI,DOI
+DOJ,DOJ
+DOL,DOL
+DOT,DOT
+DPC,DPC
+DPOD,DPOD
+DPS,DPS
+DPW,DPW
+DRC,DRC
+DRO,DRO
+DRSS,DRSS
+DSB,DSB
+DSCA,DSCA
+DSWA,DSWA
+DTIC,DTIC
+DTO,DTO
+DTRA,DTRA
+DTRG,DTRG
+DTS,DTS
+DTSA,DTSA
+DVA,DVA
+DWR,DWR
+EACC,EACC
+EACG,EACG
+EADRCC,EADRCC
+ECC,ECC
+ECFG,ECFG
+EDA,EDA
+EDAC,EDAC
+EEOC,EEOC
+EERI,EERI
+EFSNB,EFSNB
+EICC,EICC
+EJ,EJ
+ELC,ELC
+ELR,ELR
+EMA,EMA
+EML,EML
+EMOC,EMOC
+EMPO,EMPO
+EMSHG,EMSHG
+EOIR,EOIR
+EOO,EOO
+EPA,EPA
+EPPC,EPPC
+EQPCE,EQPCE
+ERB,ERB
+ERCG,ERCG
+ERDA,ERDA
+ERDEC,ERDEC
+ERG,ERG
+ERL,ERL
+ERPS,ERPS
+ERSAC,ERSAC
+ESC,ESC
+ESFLG,ESFLG
+ESGR,ESGR
+ESIC,ESIC
+ETOC,ETOC
+EWAC,EWAC
+EWC,EWC
+EWRI,EWRI
+FAB,FAB
+FAMA,FAMA
+FAMS,FAMS
+FAOC,FAOC
+FASSE,FASSE
+FBI,FBI
+FBIIC,FBIIC
+FCA,FCA
+FCD,FCD
+FCE,FCE
+FCIC,FCIC
+FDA,FDA
+FDIC,FDIC
+FDL,FDL
+FedCIRC,FedCIRC
+FEI,FEI
+FEMA,FEMA
+FFI,FFI
+FFRDC,FFRDC
+FGCC,FGCC
+FGDC,FGDC
+FHWA,FHWA
+FIAB,FIAB
+FICC,FICC
+FICEMS,FICEMS
+FICO,FICO
+FinCen,FinCen
+FIOC,FIOC
+FIPNC,FIPNC
+FLAG,FLAG
+FLETC,FLETC
+FLRA,FLRA
+FMA,FMA
+FMANA,FMANA
+FMCS,FMCS
+FMCSA,FMCSA
+FMDC,FMDC
+FmHA,FmHA
+FMSIS,FMSIS
+FNS,FNS
+FPA,FPA
+FPDL,FPDL
+FPL,FPL
+FPS,FPS
+FRA,FRA
+FRB,FRB
+FRMAC,FRMAC
+FRO,FRO
+FRPCC,FRPCC
+FRSSB,FRSSB
+FRTIB,FRTIB
+FSDO,FSDO
+FSG,FSG
+FSIS,FSIS
+FSIU,FSIU
+FSLIC,FSLIC
+FTA,FTA
+FTO,FTO
+FWS,FWS
+FZDC,FZDC
+GAAWG,GAAWG
+GACC,GACC
+GAMA,GAMA
+GANTSEC,GANTSEC
+GAO,GAO
+GEMA,GEMA
+GGI&S,GGI&S
+GLPAC,GLPAC
+GOSC,GOSC
+GPMRC,GPMRC
+GPO,GPO
+GSA,GSA
+HARTline,HARTline
+HC,HC
+HCFA,HCFA
+HCO,HCO
+HCTS,HCTS
+HEC,HEC
+HET,HET
+HHC,HHC
+HHD,HHD
+HHS,HHS
+HHSEOC,HHSEOC
+HMAC,HMAC
+HPC,HPC
+HQDA,HQDA
+USACE,USACE
+HRD,HRD
+HSAC,HSAC
+HSARPA,HSARPA
+HSOC,HSOC
+HSPD,HSPD
+HSTTIG,HSTTIG
+HSUS,HSUS
+HUD,HUD
+HUG,HUG
+HWC,HWC
+IAC,IAC
+IACP,IACP
+IAE,IAE
+IAEA,IAEA
+IAEM,IAEM
+IAFC,IAFC
+IAFF,IAFF
+IAI,IAI
+IAIP,IAIP
+IARLJ,IARLJ
+IASIR,IASIR
+IATA,IATA
+IBC,IBC
+IBHS,IBHS
+IBT,IBT
+IBWA,IBWA
+ICAF,ICAF
+ICAO,ICAO
+ICCB,ICCB
+ICCOH,ICCOH
+ICISF,ICISF
+ICMA,ICMA
+ICODS,ICODS
+ICPACC,ICPACC
+ICPAE,ICPAE
+ICRC,ICRC
+ICRP,ICRP
+ICSSC,ICSSC
+IDEM,IDEM
+IDR,IDR
+IEMA,IEMA
+IEMG,IEMG
+IFALPA,IFALPA
+IFPA,IFPA
+IHS,IHS
+IICT,IICT
+IIFC,IIFC
+IIMG,IIMG
+IIPLR,IIPLR
+IIPO,IIPO
+ILEA,ILEA
+IMAAC,IMAAC
+IMG,IMG
+IMO,IMO
+IMRD,IMRD
+INEEL,INEEL
+INER,INER
+INSARAG,INSARAG
+INTERPOL,INTERPOL
+IOS,IOS
+IPSCOM,IPSCOM
+IRAC,IRAC
+IRI,IRI
+IRIS,IRIS
+IRMS,IRMS
+IRS,IRS
+ISAAG,ISAAG
+ISACA,ISACA
+ISAO,ISAO
+ISD,ISD
+ISEMA,ISEMA
+ISI,ISI
+ISMA,ISMA
+ISOO,ISOO
+ISPAG,ISPAG
+ISSA,ISSA
+I-STAFF,I-STAFF
+ISVB,ISVB
+ITAA,ITAA
+ITD,ITD
+ITIC,ITIC
+ITSD,ITSD
+ITWG,ITWG
+JAC,JAC
+JCAH,JCAH
+JCAHO,JCAHO
+JDCC,JDCC
+JECG,JECG
+JEOC,JEOC
+JHEC,JHEC
+JIACG,JIACG
+JIB,JIB
+JICPAC,JICPAC
+JIISE,JIISE
+JIOC,JIOC
+JMC,JMC
+JMMO,JMMO
+JMRO,JMRO
+JNACC,JNACC
+JOC,JOC
+JPEG,JPEG
+JPIC,JPIC
+JPMRC,JPMRC
+JPO,JPO
+JRMPO,JRMPO
+JTA,JTA
+JTRB,JTRB
+JTWC,JTWC
+KCCO,KCCO
+LAC,LAC
+LANL,LANL
+LeeTran,LeeTran
+LEMA,LEMA
+LEOC,LEOC
+LEPC,LEPC
+LEPPC,LEPPC
+LESC,LESC
+LEWG,LEWG
+LFA,LFA
+LFEOC,LFEOC
+LHD,LHD
+LLEA,LLEA
+LLNL,LLNL
+LMDC,LMDC
+LOEP,LOEP
+LPPC,LPPC
+LYNX,LYNX
+MACGp,MACGp
+MAEC,MAEC
+MAGIC,MAGIC
+MARAC,MARAC
+MARAD,MARAD
+MARC,MARC
+MCEER,MCEER
+MCMC,MCMC
+MCO,MCO
+MCOC,MCOC
+MIACC,MIACC
+MIFC,MIFC
+MLAT,MLAT
+MMC,MMC
+MMPAC,MMPAC
+MMS,MMS
+MOB Center,MOB Center
+MOC,MOC
+MPEG,MPEG
+MRIC,MRIC
+MRMC,MRMC
+MSCA,MSCA
+MSCLEA,MSCLEA
+MSHA,MSHA
+MSIC,MSIC
+MSPB,MSPB
+MTMC,MTMC
+MUDAC,MUDAC
+MWCOG,MWCOG
+MWEAC,MWEAC
+MWEOC,MWEOC
+NACA,NACA
+NACCHO,NACCHO
+NACD,NACD
+NACE,NACE
+NACI,NACI
+NACo,NACo
+NADO,NADO
+NAFSMA,NAFSMA
+NAHB,NAHB
+NAII,NAII
+NAIIA,NAIIA
+NAMRI,NAMRI
+NAOC,NAOC
+NAPA,NAPA
+NARA,NARA
+NARAC,NARAC
+NARTC,NARTC
+NAS,NAS
+NASA,NASA
+NASAR,NASAR
+NASCDD,NASCDD
+NASEMSD,NASEMSD
+NASFM,NASFM
+NASTTPO,NASTTPO
+NASULGC,NASULGC
+NATCA,NATCA
+NATO,NATO
+NAWE,NAWE
+NBACC,NBACC
+NBFAC,NBFAC
+NBSAC,NBSAC
+NBTA,NBTA
+NBWDA,NBWDA
+NCA,NCA
+NCAI,NCAI
+NCAR,NCAR
+NCBFAA,NCBFAA
+NCC,NCC
+NCCC,NCCC
+NCCG,NCCG
+NCDDM,NCDDM
+NCEH,NCEH
+NCEP,NCEP
+NCGIA,NCGIA
+NCIC,NCIC
+NCID,NCID
+NCIT,NCIT
+NCLIS,NCLIS
+NCMEC,NCMEC
+NCRPM,NCRPM
+NCSA,NCSA
+NCSD,NCSD
+NCSL,NCSL
+NCSLLET,NCSLLET
+NCTC,NCTC
+NCUA,NCUA
+NDAC,NDAC
+NDC,NDC
+NDEA,NDEA
+NDEC,NDEC
+NDIA,NDIA
+NDIC,NDIC
+NDMC,NDMC
+NDMOC,NDMOC
+NDMSOSC,NDMSOSC
+NDPO,NDPO
+NDW,NDW
+NEC,NEC
+NRCC,NRCC
+NECD,NECD
+NEFSMA,NEFSMA
+NEHA,NEHA
+NEI,NEI
+NEIC,NEIC
+NEIS,NEIS
+NENA,NENA
+NEOC,NEOC
+NEPPC,NEPPC
+NERC,NERC
+NESEC,NESEC
+NETAC,NETAC
+NETC,NETC
+NFA,NFA
+NFDC,NFDC
+NFFE,NFFE
+NFFF,NFFF
+NFIB,NFIB
+NFIC,NFIC
+NFPA,NFPA
+NFPCA,NFPCA
+NFSC,NFSC
+NFSCC,NFSCC
+NGDC,NGDC
+NHC,NHC
+NHTSA,NHTSA
+NIBS,NIBS
+NICC,NICC
+NICI,NICI
+NIEHS,NIEHS
+NIEOC,NIEOC
+NIER,NIER
+NIFC,NIFC
+NIFCC,NIFCC
+NIJ,NIJ
+NIMA,NIMA
+NIMH,NIMH
+NIOSH,NIOSH
+NIPC,NIPC
+NISAC,NISAC
+NISE,NISE
+NIST,NIST
+NIUSR,NIUSR
+NLECC,NLECC
+NLRA,NLRA
+NLRB,NLRB
+NMAB,NMAB
+NMCC,NMCC
+NMFS,NMFS
+NMIC,NMIC
+NMJIC,NMJIC
+NMRI,NMRI
+NMSAC,NMSAC
+NMSS,NMSS
+NNEC,NNEC
+NNOB,NNOB
+NNOC,NNOC
+NNSA,NNSA
+NAO,NAO
+NOAA,NOAA
+NOBLE,NOBLE
+NORAD,NORAD
+NORTHCOM,NORTHCOM
+NOSAC,NOSAC
+NPFC,NPFC
+NPLA,NPLA
+NPMA,NPMA
+NPMOC,NPMOC
+NPPC,NPPC
+NPR,NPR
+NPS,NPS
+NPSC,NPSC
+NPSTC,NPSTC
+NRCOC,NRCOC
+NRCS,NRCS
+NRCSDC,NRCSDC
+NRO,NRO
+NRPC,NRPC
+NSAC,NSAC
+NSDD,NSDD
+NSFCC,NSFCC
+NSGIC,NSGIC
+NSHS,NSHS
+NSPD,NSPD
+NSPE,NSPE
+NSSFC,NSSFC
+NSSL,NSSL
+NSTAC,NSTAC
+NSTC,NSTC
+NTAC,NTAC
+NTC-MW,NTC-MW
+NTEU,NTEU
+NTIA,NTIA
+NTIS,NTIS
+NTMR,NTMR
+NTSB,NTSB
+NTSC,NTSC
+NUL,NUL
+NUMARC,NUMARC
+NVDC,NVDC
+NVFC,NVFC
+NVMC,NVMC
+NVOAD,NVOAD
+NWC,NWC
+NWCG,NWCG
+NWS,NWS
+NWSFO,NWSFO
+NWWS,NWWS
+OAFME,OAFME
+OASH,OASH
+OAWG,OAWG
+OCC,OCC
+OCD,OCD
+OCGFC,OCGFC
+OCHAMPUS,OCHAMPUS
+OCIPEP,OCIPEP
+OCOG,OCOG
+OCPM,OCPM
+OCRWM,OCRWM
+ODCEM,ODCEM
+ODEM,ODEM
+ODP,ODP
+ODRO,ODRO
+OECD,OECD
+OEM,OEM
+OEMA,OEMA
+OEMP,OEMP
+OER,OER
+OES,OES
+OET,OET
+OFAC,OFAC
+OFDA,OFDA
+OFM,OFM
+OFMA,OFMA
+OFO,OFO
+OFSEP,OFSEP
+OGC,OGC
+OGE,OGE
+OHRM,OHRM
+OHS,OHS
+OI,OI
+OIA,OIA
+OIE,OIE
+OIG,OIG
+OIM,OIM
+OIWG,OIWG
+OJCS,OJCS
+OJP,OJP
+OLA,OLA
+OMB,OMB
+OMNCS,OMNCS
+OMTPE,OMTPE
+ONDCP,ONDCP
+ONP,ONP
+ONRA,ONRA
+OPHS,OPHS
+OPM,OPM
+OPR,OPR
+ORIA,ORIA
+ORISE,ORISE
+ORNL,ORNL
+ORO,ORO
+OR&R,OR&R
+OSCE,OSCE
+OSDBU,OSDBU
+OSHA,OSHA
+OSLGC&P,OSLGC&P
+OSOCC,OSOCC
+OSTP,OSTP
+OTAN,OTAN
+OTD,OTD
+OTR,OTR
+OTS,OTS
+OTSP,OTSP
+OUC,OUC
+OVC,OVC
+OVI,OVI
+OVP,OVP
+OWMD,OWMD
+PABX,PABX
+PACC,PACC
+PACOM,PACOM
+PAHO,PAHO
+PANYNJ,PANYNJ
+PBA,PBA
+PBRB,PBRB
+PCCIP,PCCIP
+PCPT,PCPT
+PEF,PEF
+PEMA,PEMA
+PEOC,PEOC
+PEPAC,PEPAC
+PERI,PERI
+PHS,PHS
+PIADC,PIADC
+PLC,PLC
+PMG,PMG
+POLF,POLF
+POTS,POTS
+PPC,PPC
+PRB,PRB
+PRIME POWER,PRIME POWER
+PSB,PSB
+PSEPC,PSEPC
+PSTA,PSTA
+PSU,PSU
+PSWAC,PSWAC
+PTWC,PTWC
+PUCD,PUCD
+RAC AC,RAC AC
+RACES,RACES
+RADLAB,RADLAB
+RAWG,RAWG
+RBCS,RBCS
+RCAC,RCAC
+RCDCB,RCDCB
+REAC,REAC
+REAC/TS,REAC/TS
+READI,READI
+RENC,RENC
+RFC,RFC
+RHS,RHS
+RIC,RIC
+RISC,RISC
+RLTG,RLTG
+RLS,RLS
+RMA,RMA
+RMG,RMG
+RMRIWFCG,RMRIWFCG
+RMTO,RMTO
+RNMCB,RNMCB
+RRCC,RRCC
+ROWPU,ROWPU
+RPOC,RPOC
+RPPO,RPPO
+RRAC,RRAC
+RRF,RRF
+RSPA,RSPA
+RSU,RSU
+RTAP,RTAP
+RUS,RUS
+S-60,S-60
+SAA,SAA
+SAMHSA,SAMHSA
+SATO,SATO
+SBCCOM,SBCCOM
+SBIR,SBIR
+SCC,SCC
+SCEC,SCEC
+SCEPC,SCEPC
+SCIC,SCIC
+SCOTUS,SCOTUS
+SCS,SCS
+SDD,SDD
+SEC,SEC
+SECC,SECC
+SEI,SEI
+SEMA,SEMA
+SEMO,SEMO
+SEOC,SEOC
+SERC,SERC
+SES,SES
+SHPO,SHPO
+SICG,SICG
+SIES,SIES
+SIOC,SIOC
+SLSAC,SLSAC
+SMAC,SMAC
+SMC,SMC
+SMCC,SMCC
+SMG,SMG
+SMHA,SMHA
+SMO,SMO
+SNL,SNL
+SPC,SPC
+SPCA,SPCA
+SPDC,SPDC
+SPRB,SPRB
+SRSC,SRSC
+SSFSD,SSFSD
+SSG,SSG
+STA,STA
+STARC,STARC
+STB,STB
+STDO,STDO
+ST ISAC,ST ISAC
+STOC,STOC
+SWC,SWC
+SWG,SWG
+TAC-SMC,TAC-SMC
+TEEX,TEEX
+TEMA,TEMA
+TEOAF,TEOAF
+TEOC,TEOC
+TFCC,TFCC
+TIOC,TIOC
+TLC,TLC
+TLC-C,TLC-C
+TLC-E,TLC-E
+TLC-W,TLC-W
+TPC,TPC
+Treas,Treas
+TRES,TRES
+TSAC,TSAC
+TSCC,TSCC
+TSD,TSD
+TSWG,TSWG
+TTC,TTC
+TTIC,TTIC
+TVA,TVA
+UCGIS,UCGIS
+UMCOR,UMCOR
+UMOC,UMOC
+UNDRO,UNDRO
+UNHCR,UNHCR
+UNSCOM,UNSCOM
+UOC,UOC
+URISA,URISA
+USACBDC,USACBDC
+USACDA,USACDA
+USACE,USACE
+USACHPPM,USACHPPM
+USACMDA,USACMDA
+USADACS,USADACS
+USAF,USAF
+USAFA,USAFA
+USAID,USAID
+USA-ITA,USA-ITA
+USAMRICD,USAMRICD
+USAMRIID,USAMRIID
+USANCA,USANCA
+USAR,USAR
+USBP,USBP
+USBR,USBR
+USCG,USCG
+USCGR,USCGR
+USCIS,USCIS
+USCOLD,USCOLD
+USCS,USCS
+USCSCFAC,USCSCFAC
+USDA,USDA
+USDA,USDA
+USDOI,USDOI
+USDOL,USDOL
+USDOT,USDOT
+USFA,USFA
+USFS,USFS
+USFWS,USFWS
+USGS,USGS
+USIA,USIA
+USJFCOM,USJFCOM
+USMC,USMC
+USMCR,USMCR
+USMRICD,USMRICD
+USMS,USMS
+USN,USN
+USNR,USNR
+USNORTHCOM,USNORTHCOM
+USOC,USOC
+USPACOM,USPACOM
+USPHS,USPHS
+USPIS,USPIS
+USPP,USPP
+USPS,USPS
+USSOCOM,USSOCOM
+USSOUTHCOM,USSOUTHCOM
+USSPACECOM,USSPACECOM
+USSS,USSS
+USSTRATCOM,USSTRATCOM
+USTA,USTA
+USTR,USTR
+USTRANSCOM,USTRANSCOM
+USVI,USVI
+US-VISIT,US-VISIT
+VAL,VAL
+VAMC,VAMC
+VDEM,VDEM
+VERA,VERA
+VFD,VFD
+VHA,VHA
+VIPS,VIPS
+VISC,VISC
+VISTA,VISTA
+VITA,VITA
+VITEMA,VITEMA
+VNPSC,VNPSC
+VOA,VOA
+VOAD,VOAD
+VRC,VRC
+WATS,WATS
+WCATWC,WCATWC
+WCO,WCO
+WHCA,WHCA
+WHLO,WHLO
+WHMO,WHMO
+WHO,WHO
+WHS,WHS
+WMATA,WMATA
+WMD-DAC,WMD-DAC
+WMO,WMO
+WSSPC,WSSPC
+WTO,WTO
+WVOES,WVOES
+YCC,YCC
+AAA,AAA
+AAA,AAA
+AAC,AAC
+AAR,AAR
+ABA,ABA
+ABA,ABA
+ABC,ABC
+ACC,ACC
+ACC,ACC
+ACC,ACC
+ACC,ACC
+ACE,ACE
+ACE,ACE
+ACF,ACF
+ACI,ACI
+ACR,ACR
+ACS,ACS
+ACS,ACS
+ADRA,ADRA
+AEC,AEC
+AECC,AECC
+AECC,AECC
+AF,AF
+AGC,AGC
+AIA,AIA
+AIA,AIA
+ALC,ALC
+ALCC,ALCC
+AMC,AMC
+AMC,AMC
+AMS,AMS
+AOC,AOC
+AOC,AOC
+APA,APA
+ARS,ARS
+ASC,ASC
+ASC,ASC
+ATA,ATA
+ATC,ATC
+BIA,BIA
+BIA,BIA
+BPA,BPA
+BTS,BTS
+C3,C3
+CAC,CAC
+CAC,CAC
+CAC,CAC
+CAC,CAC
+CAO,CAO
+CAP,CAP
+CAP,CAP
+CAS,CAS
+CAT,CAT
+CBA,CBA
+CBO,CBO
+CBO,CBO
+CC,CC
+CCC,CCC
+CCC,CCC
+CCC,CCC
+CCO,CCO
+CFA,CFA
+CG,CG
+CIS,CIS
+CMA,CMA
+CMA,CMA
+CMC,CMC
+CMC,CMC
+CMC,CMC
+CNS,CNS
+CNS,CNS
+COC,COC
+CRO,CRO
+CRS,CRS
+CRS,CRS
+CRS,CRS
+CSA,CSA
+CSG,CSG
+CSG,CSG
+CSIS,CSIS
+CSIS,CSIS
+CTC,CTC
+CTC,CTC
+CTD,CTD
+CWS,CWS
+DA,DA
+DAC,DAC
+DCA,DCA
+DCA,DCA
+DCC,DCC
+DCC,DCC
+DEA,DEA
+DEC,DEC
+DEC,DEC
+DEC,DEC
+DEM,DEM
+DEM,DEM
+DEP,DEP
+DES,DES
+DES,DES
+DMA,DMA
+DNA,DNA
+DOC,DOC
+DOC,DOC
+DOC,DOC
+DOC,DOC
+DOS,DOS
+EAB,EAB
+EAO,EAO
+ECG,ECG
+ECG,ECG
+ED,ED
+EDC,EDC
+EDC,EDC
+EIS,EIS
+EOC,EOC
+EPOC,EPOC
+ETA,ETA
+ETC,ETC
+FAA,FAA
+FAC,FAC
+FAC,FAC
+FAC,FAC
+FAS,FAS
+FC,FC
+FCC,FCC
+FCC,FCC
+FCS,FCS
+FCS,FCS
+FEB,FEB
+FERC,FERC
+FHA,FHA
+FMC,FMC
+FMC,FMC
+FOC,FOC
+FOC,FOC
+FOS,FOS
+FOS,FOS
+FPC,FPC
+FRC,FRC
+FRC,FRC
+FRC,FRC
+FS,FS
+FSA,FSA
+FSC,FSC
+FSC,FSC
+FSD,FSD
+FTC,FTC
+HLS,HLS
+HS,HS
+HS,HS
+HSC,HSC
+HSC,HSC
+HSC,HSC
+ICC,ICC
+ICC,ICC
+ICC,ICC
+ICD,ICD
+ICD,ICD
+ICE,ICE
+ICP,ICP
+ICS,ICS
+IEA,IEA
+IHC,IHC
+IMC,IMC
+INS,INS
+IOC,IOC
+IPC,IPC
+IPC,IPC
+IPS,IPS
+IPS,IPS
+IRB,IRB
+IRB,IRB
+IRC,IRC
+ISAC,ISAC
+ISAC,ISAC
+ISC,ISC
+ISO,ISO
+ISO,ISO
+ISO,ISO
+ISOC,ISOC
+ITC,ITC
+ITC,ITC
+JAG,JAG
+JIC,JIC
+JIC,JIC
+JIC,JIC
+LEA,LEA
+LRC,LRC
+LRC,LRC
+LSC,LSC
+LSC,LSC
+MAC,MAC
+MACC,MACC
+MACC,MACC
+MBA,MBA
+MBA,MBA
+MC,MC
+MC,MC
+MCC,MCC
+MCC,MCC
+MCC,MCC
+MD,MD
+MEMA,MEMA
+MEMA,MEMA
+MEMA,MEMA
+MEMA,MEMA
+MEMA,MEMA
+MEMA,MEMA
+MIC,MIC
+MP,MP
+MPC,MPC
+MRC,MRC
+MRC,MRC
+MSC,MSC
+MSC,MSC
+MSC,MSC
+MSC,MSC
+NAC,NAC
+NAC,NAC
+NCPC,NCPC
+NCPC,NCPC
+NEMA,NEMA
+NEMA,NEMA
+NFDA,NFDA
+NFDA,NFDA
+NGA,NGA
+NGA,NGA
+NGB,NGB
+NIAC,NIAC
+NIAC,NIAC
+NIC,NIC
+NIC,NIC
+NLC,NLC
+NMC,NMC
+NOC,NOC
+NOC,NOC
+NOC,NOC
+NOC,NOC
+NOC,NOC
+NPC,NPC
+NPC,NPC
+NRC,NRC
+NRC,NRC
+NRC,NRC
+NRC,NRC
+NRCC,NRCC
+NRCC,NRCC
+NSA,NSA
+NSA,NSA
+NSC,NSC
+NSC,NSC
+NSC,NSC
+NSD,NSD
+NSF,NSF
+NSF,NSF
+NTC,NTC
+NTC,NTC
+OAR,OAR
+OAR,OAR
+OAS,OAS
+OAS,OAS
+OAS,OAS
+OCA,OCA
+OCA,OCA
+OCR,OCR
+OEP,OEP
+OFF,OFF
+ORD,ORD
+OSC,OSC
+OSC,OSC
+OSD,OSD
+OSD,OSD
+OST,OST
+PAC,PAC
+PAC,PAC
+PAO,PAO
+PBS,PBS
+PCT,PCT
+PD,PD
+PDC,PDC
+PEG,PEG
+PFA,PFA
+PFA,PFA
+PRC,PRC
+PSD,PSD
+PTI,PTI
+RAA,RAA
+RAC,RAC
+ARC,ARC
+RCC,RCC
+RCC,RCC
+REA,REA
+RHA,RHA
+RPA,RPA
+SA,SA
+SAIC,SAIC
+SBA,SBA
+SCAT,SCAT
+SCAT,SCAT
+SDO,SDO
+SMI,SMI
+SMI,SMI
+SOC,SOC
+SPG,SPG
+SSA,SSA
+SSA,SSA
+SSC,SSC
+STC,STC
+STU,STU
+STU,STU
+TAC,TAC
+TAC,TAC
+TAG,TAG
+TAG,TAG
+TCC,TCC
+TCC,TCC
+TCC,TCC
+TIA,TIA
+TMC,TMC
+TMC,TMC
+TOA,TOA
+TOC,TOC
+TOC,TOC
+TPO,TPO
+TRC,TRC
+TRC,TRC
+TSA,TSA
+TSA,TSA
+TSB,TSB
+TSB,TSB
+TSC,TSC
+TSC,TSC
+VA,VA
+YLD,YLD
+SMC,SMC
+AECC,AECC
+DAC,DAC
+EOC,EOC
+OEP,OEP

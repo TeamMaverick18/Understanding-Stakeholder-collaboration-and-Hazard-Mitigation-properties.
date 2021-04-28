@@ -19,17 +19,18 @@ to (1) design a systematic approach that identifies respective stakeholdersinvol
 ----
 ### howtouse
 
-DATASET: <br/>
+**DATASET**: <br/> <br/>
 **CleanedMission Assignments.csv:** <br/>
 This dataset contains the processed mission assignment dataset. <br/>
 **Stakeholder Dictionary.csv:** <br/>
 This file contains a list of stakeholder names. It is used to extract stakeholder collaboration information from the mission assignment dataset. 
 **HU_stakeholder.csv and HU_interaction.csv:** <br/>
-These two datasets contain collaboration information (i.e., stakeholder and stakeholder interaction) for Hurricanes from the mission assignment dataset.<br/>
+These two datasets contain collaboration information (i.e., stakeholder and stakeholder interaction) for Hurricanes from the mission assignment dataset.<br/><br/>
 **CODE:** <br/>
-MA Exploration.R: This code takes the raw mission assignment dataset and cleans the dataset. In addition, this code contains exploratory data analysis and visualizations.
+**MA Exploration.R:** <br/>
+This code takes the raw mission assignment dataset and cleans the dataset. In addition, this code contains exploratory data analysis and visualizations.
 Collaboration Information Extraction.py: This code takes the cleaned mission assignment dataset and uses the defined stakeholder dictionary to extract stakeholder collaboration information. <br/>
-Identification of High Performing Stakeholders.R: <br/>
+**Identification of High Performing Stakeholders.R: **<br/>
 This code takes the extracted stakeholder collaboration information for hurricane-related disasters and calculated centrality to identify high-performing stakeholders <br/>
 
 ----
